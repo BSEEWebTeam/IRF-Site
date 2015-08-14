@@ -117,9 +117,9 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           </td>
       </tr>
     </table></td>
-		<td valign="top"><a href="http://www.cnh.gob.mx/"><img src="/images/logo_CNH_Mexico.jpg" border="0"></a>
+		<td valign="top"><a href="http://www.cnh.gob.mx/"><img src="/images/logo_ASEA_Mexico.png" border="0"></a>
 			<div style="margin-left: 4px;"><br />
-			<a href="http://www.cnh.gob.mx/">www.cnh.gob.mx</a><br />
+			<a href="http://www.asea.gob.mx/">www.asea.gob.mx</a><br />
 			<br />
 			Vito Alessio Robles 174.<br />Colonia Florida<br />
 			Del. &Aacute;lvaro Obreg&oacute;n<br />
