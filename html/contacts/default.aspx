@@ -79,8 +79,7 @@
             <tr>
               <td valign="top"><strong>United Kingdom:</strong></td>
               <td valign="top">Health and Safety Executive (HSE)<br />
-                <a href="mailto:jean.flett@hse.gsi.gov.uk>jean.flett@hse.gsi.gov.uk</a>
-			  </td>
+                <a href="mailto:jean.flett@hse.gsi.gov.uk">jean.flett@hse.gsi.gov.uk</a></td>
             </tr>
             <tr>
               <td valign="top"><strong>United States:</strong> </td>
@@ -88,8 +87,8 @@
                 <a href="mailto:bseeoip@bsee.gov">bseeoip@bsee.gov</a>
       			  </td>
             </tr>
-
-          </table></td>
+          </table>
+		  </td>
         </tr>
     </table></td>
   </tr>
