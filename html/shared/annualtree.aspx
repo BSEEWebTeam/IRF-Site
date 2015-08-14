@@ -55,12 +55,14 @@
   <li>
     <a href="/awards/">Awards</a>
   </li>
+  <!-- //
   <li>
     <a href="/programmes/">Programmes</a>
   </li>
   <li>
     <a href="/events/">Topical Issues</a>
   </li>
+  // -->
   <li>
     <a href="/research/">Research</a>
   </li>
