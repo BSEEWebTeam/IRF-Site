@@ -120,13 +120,6 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 		<td valign="top"><a href="http://www.cnh.gob.mx/"><img src="/images/logo_ASEA_Mexico.png" border="0"></a>
 			<div style="margin-left: 4px;"><br />
 			<a href="http://www.asea.gob.mx/">www.asea.gob.mx</a><br />
-			<br />
-			Vito Alessio Robles 174.<br />Colonia Florida<br />
-			Del. &Aacute;lvaro Obreg&oacute;n<br />
-			C.P. 01030<br />
-			M&eacute;xico, D.F.<br />
-			<br />
-			+52 (55) 1454 8500
 			</div>
 		</td><!-- right column -->
   </tr>
