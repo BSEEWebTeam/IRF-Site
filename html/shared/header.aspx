@@ -16,6 +16,6 @@
 <area shape="rect" coords="4,100,137,186" href="http://www.sodm.nl/" target="_blank" alt="Netherlands State Supervision of Mines" />
 <area shape="rect" coords="138,100,289,186" href="http://www.cnlopb.ca/ " target="_blank" alt="Canada-Newfoundland Offshore Petroleum Board" />
 <area shape="rect" coords="290,100,433,186" href="http://www.anp.gov.br/" target="_blank" alt="ANP Brazil" />
-<area shape="rect" coords="434,100,550,186" href="http://www.cnh.gob.mx/" target="_blank" alt="CNH Mexico" />
+<area shape="rect" coords="434,100,550,186" href="http://www.cnh.gob.mx/" target="_blank" alt="ASEA Mexico" />
 <area shape="rect" coords="551,100,746,186" href="http://www.ens.dk/" target="_blank" alt="Danish Energy Agency" />
 </map>
