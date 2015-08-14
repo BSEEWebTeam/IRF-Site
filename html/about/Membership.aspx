@@ -41,8 +41,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             <li>State Supervision of Mines, the Netherlands (SSM)</li>
             <li>WorkSafe NZ, New Zealand</li>
             <li>Petroleum Safety Authority, Norway (PSA)</li>
-            <li>Bureau of Safety and Environmental Enforcement, United States (BSEE)</li>
             <li>The Health and Safety Executive, United Kingdom (HSE)</li>
+            <li>Bureau of Safety and Environmental Enforcement, United States (BSEE)</li>
           </ul>
         </td>
       </tr>
