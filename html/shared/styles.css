@@ -1,0 +1,121 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #444444;
+}
+
+p	{
+	font-size:small;
+}
+
+h1 {
+	font-size: large;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-size: medium;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+h3 {
+	font-size: small;
+}
+
+a {
+	color: #336699;
+	font-weight: bold;
+	font-size: small;
+}
+
+a:active {
+	color: #336666;
+	font-weight: bold;
+	font-size: small;
+}
+
+a:hover {
+	color: #336699;
+	font-weight: bold;
+	font-size: small;
+}
+
+a.menu {
+	color: #999999;
+	font-weight: bold;
+	font-size:small;
+	text-decoration:none;
+	margin-right:0px;
+}
+
+a:active.menu {
+	color: #999999;
+	font-weight: bold;
+	font-size: small;
+	text-decoration: none;
+	margin-right: 0px;
+}
+
+a:hover.menu {
+	color: #999999;
+	font-weight: bold;
+	font-size: small;
+	text-decoration: none;
+	margin-right: 0px;
+}
+.title {
+	font-size: medium;
+	color: #333333;
+}
+
+.sub {
+	font-size: xx-small;
+}
+
+div {
+	font-size: small;
+}
+
+table {
+	font-size: small;
+}
+
+td {
+	font-size: small;
+}
+
+#profile td {
+	vertical-align: top;
+	padding-bottom: 12px;
+}
+
+#profile td p {
+	margin-top: 0px;
+}
+
+#specialfeatures { color: white; font-size: 112%; font-weight: normal; padding: 3px; line-height: 20px; display: block;}
+#main-content { border-bottom: 1px solid grey; }
+
+#menu > li > a {text-decoration: none; display: block; padding: 10px 5px 5px 10px; border-bottom: 1px solid grey; color: black; font-size: 108%; font-weight: normal;}
+#menu > li {width: 100%; list-style-type: none; padding: 0;}
+#menu {padding: 0; width: 145px;}
+#menu > li > a:hover { background: grey; color: white;}
+#menu li.selected > a { background: lightslategrey; color: white; }
+#menu td:hover { background: none repeat scroll 0 0 grey; }
+#menu td:hover a { color: white; }
+table.gsc-branding { display:none !important}
+
+.screen-reader-only {
+  position:absolute;
+  left:-10000px;
+  top:auto;
+  width:1px;
+  height:1px;
+  overflow:hidden;
+}
+

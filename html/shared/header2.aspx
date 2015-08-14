@@ -1,0 +1,1 @@
+<a href="/"><img src="/images/IRF.gif" alt="International Regulators' Forum Global Offshore Safety" width="750" height="170" border="0" /></a>
