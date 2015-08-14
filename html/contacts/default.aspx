@@ -60,31 +60,31 @@
 			</tr>
             <tr>
               <td valign="top"><strong>Netherlands:</strong></td>
-              <td><p>State Supervision of Mines (SSM)<br />
+              <td valign="top"><p>State Supervision of Mines (SSM)<br />
                 <a href="mailto:v.c.m.claessens@minez.nl">v.c.m.claessens@minez.nl</a></p>
                 </td>
             </tr>
             <tr>
               <td valign="top"><strong>New Zealand:</strong></td>
-              <td><p>WorkSafe NZ<br />
+              <td valign="top"><p>WorkSafe NZ<br />
                       <a href="mailto:Wayne.Vernon@dol.govt.nz">Wayne.Vernon@dol.govt.nz</a><br />
                       <a href="mailto:Brett.Murray@dol.govt.nz">Brett.Murray@dol.govt.nz</a>
               </p></td>
             </tr>
             <tr>
               <td width="23%" valign="top"><strong>Norway:</strong></td>
-              <td width="77%"><p>Petroleum Safety Authority (PSA)<br />
+              <td width="77%" valign="top"><p>Petroleum Safety Authority (PSA)<br />
                   <a href="mailto:Thor.Dahle@ptil.no">Thor.Dahle@ptil.no</a></p></td>
             </tr>
             <tr>
               <td valign="top"><strong>United Kingdom:</strong></td>
-              <td><p>Health and Safety Executive (HSE)<br />
+              <td valign="top"><p>Health and Safety Executive (HSE)<br />
                 <a href="mailto:jean.flett@hse.gsi.gov.uk>jean.flett@hse.gsi.gov.uk</a></p>
 			  </td>
             </tr>
             <tr>
               <td valign="top"><strong>United States:</strong> </td>
-              <td><p>Bureau of Safety and Environmental Enforcement (BSEE)<br />
+              <td valign="top"><p>Bureau of Safety and Environmental Enforcement (BSEE)<br />
                 <a href="mailto:bseeoip@bsee.gov">bseeoip@bsee.gov</a></p>
       			  </td>
             </tr>
