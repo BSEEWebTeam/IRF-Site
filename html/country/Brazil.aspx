@@ -68,7 +68,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Assurance Mechanisms:</strong></td>
-              <td valign="top">- Government inspectorate. Audits, inspections, monitoring and fiscalization;<br/>- Offices located in Rio de Janeiro (central office), Brasilia (headquarter), São Paulo (1 unit), Salvador (1 unit), Manaus (1 unit), Belo Horizonte (1 unit) and Porto Alegre (1 unit);<br/>- Agreement with the Brazilian Navy for joint operation on safety issues;<br/>- Agreement with State Fire Brigades and Finance Secretaries to support downstream fiscalization;<br/>- Contracts with Federal Universities and other research institutes to support fuels and biofuels quality analysis.
+              <td valign="top">- Government inspectorate. Audits, inspections, monitoring and fiscalization;<br/>- Offices located in Rio de Janeiro (central office), Brasilia (headquarter), S&#227;o Paulo (1 unit), Salvador (1 unit), Manaus (1 unit), Belo Horizonte (1 unit) and Porto Alegre (1 unit);<br/>- Agreement with the Brazilian Navy for joint operation on safety issues;<br/>- Agreement with State Fire Brigades and Finance Secretaries to support downstream fiscalization;<br/>- Contracts with Federal Universities and other research institutes to support fuels and biofuels quality analysis.
 			  </td>
             </tr>
             <tr>
