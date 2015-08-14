@@ -59,7 +59,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td><a href="NewZealand.aspx">New Zealand</a></td>
-              <td>Department of Labour</td>
+              <td>WorkSafe New Zealand</td>
             </tr>
             <tr>
               <td><a href="Norway.aspx">Norway</a></td>
