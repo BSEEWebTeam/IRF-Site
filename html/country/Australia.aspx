@@ -37,77 +37,78 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Organisation:</strong></td>
-              <td valign="top">National Offshore Petroleum Safety and Environmental Management Authority</td>
+              <td valign="top">National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA)</td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>Contact:</strong></td>
+              <td valign="top">information@nopsema.gov.au</td>
             </tr>
             <tr>
               <td valign="top"><strong>Regime Scope:</strong></td>
-              <td valign="top">Offshore petroleum operations or greenhouse gas storage operations in respect of:
+              <td valign="top">NOPSEMA is Australia’s national regulator of offshore petroleum operations and greenhouse gas storage operations with respect to:
                 <ul>
-                <li>Health and safety;</li>
-                <li>Well Integrity;</li>
-                <li>Environmental Management.</li>
+                <li>health and safety</li>
+                <li>well integrity</li>
+                <li>wnvironmental management.</li>
                 </ul>
               </td>
             </tr>
             <tr>
-              <td valign="top"><strong>Administering Agency /Arrangements:</strong></td>
-              <td valign="top">Established under statute i.e. Commonwealth (federal) government agency, a body corporate,CEO reports direct to Commonwealth Minister for Department of Resources, Energy and Tourism and to the State and Northern Territory Ministers via the Ministerial Council on Minerals, Petroleum and Resources. Legislated formal external review of operations every 3-5 years.</td>
+              <td valign="top"><strong>Governance Arrangements:</strong></td>
+              <td valign="top">NOPSEMA is an independent regulatory authority established under statute. It is a Commonwealth (federal) government agency with a Chief Executive Officer (CEO) who reports directly to the Commonwealth Minister for Industry and Science. An advisory board with functions to provide advice to the Minister and to the CEO is established under the legislation which also prescribes a formal independent review of NOPSEMA’s operations every five years.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Legislation Type:</strong></td>
-              <td valign="top"><em>Offshore Petroleum and Greenhouse Gas Storage Act</em> (2006) and associated regulations for Commonwealth Waters. State Governments have option to confer same responsibilities in State Waters via State 'mirror' legislation.</td>
+              <td valign="top">The <a href="https://www.comlaw.gov.au/Series/C2006A00014"><em>Offshore Petroleum and Greenhouse Gas Storage Act (2006)</em></a> provides the legislative framework for all offshore petroleum and greenhouse gas activities in Australia’s Commonwealth waters. The Act is supported by associated regulations and directions for matters including safety, well integrity, diving, and environmental management.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Extent Of Government Approval:</strong></td>
-              <td valign="top">Acceptance of nomination of the operator of a facility;<br> Agreement to the scope of validation;<br />
-              Acceptance of:
+              <td valign="top">NOPSEMA regulates offshore oil and gas activities primarily by assessing, and accepting where appropriate, prescribed duty-holder management plans and subsequently by undertaking a range of compliance monitoring and enforcement functions. The prescribed management plans are essentially ‘permissioning’ documents and must be accepted by NOPSEMA prior to a duty-holder commencing an activity. The prescribed plans include:
                 <ul>
-                <li>safety cases,</li>
-                <li>diving safety management systems,</li>
-                <li>well operations management plans and</li>
+                <li>safety cases</li>
+                <li>well operations management plans</li>
+                <li>diving safety management systems</li>
                 <li>environment plans.</li>
                 </ul>
               </td>
             </tr>
             <tr>
-              <td valign="top"><strong>Nature Of Duties Imposed:</strong></td>
-              <td valign="top">General OHS duties imposed on operators of facilities, people in control of particular work, employers and other duty-holders.  Titleholders have an OHS duty in respect of the integrity of wells. Duties are mainly performance based (health and safety risks are reduced to a level that is as low as reasonably practicable) but some occupational health prescription.
-              Regulations require that prior to commencing relevant activities, duty holders must have accepted by NOPSEMA (i) a safety case for facilities (ii) a well operations plan and (iii) an environment plan. Duty holders are required to operate in accordance with the accepted arrangements.
+              <td valign="top"><strong>Nature of Duties Imposed:</strong></td>
+              <td valign="top">General duties are imposed on operators of facilities, licence holders, persons in control of particular work, employers and others. Duties are performance based, with health and safety risks required to be reduced to a level that is as low as reasonably practicable (ALARP) and environmental impacts reduced to ALARP and acceptable levels. Regulations require that once the prescribed permissioning documents have been accepted by NOPSEMA, duty-holders must operate in accordance with the arrangements documented within the relevant safety case, well operations management plan or environment plan.
               </td>
             </tr>
             <tr>
-              <td valign="top"><strong>Physical Objects In The Regime:</strong></td>
-              <td valign="top">Approximately 30 platforms, 15 FPSO/FSOs, 10 MODUs, 10 Vessels and 90 pipeline facilities. Entry into regime is decided on the basis of the activity performed by the facility. In addition objects include all non-abandoned wells in waters regulated by NOPSEMA.</td>
+              <td valign="top"><strong>Physical objects In the regime:</strong></td>
+              <td valign="top">Approximately 32 platforms, 11 FPSO/FSOs, 12 MODUs, 17 vessels and 76 pipeline facilities.</td>
             </tr>
             <tr>
-              <td valign="top"><strong>Assurance Mechanisms:</strong></td>
-              <td valign="top">Inspections of facilities by NOPSA OHS and Petroleum Project Inspectors, Validation in certain circumstances by 3rd party (employed by operator).  Enforcement through notices issued by inspectors.</td>
-            </tr>
-            <tr>
-              <td valign="top"><strong>Environmental Regulation Responsibilities:</strong></td>
-              <td valign="top">Environmental regulation responsibilities commenced on January 2012. The objective of these regulations is to ensure that any offshore petroleum activity is carried out in a manner consistent with the principles of ecologically sustainable development and in accordance with an accepted environment plan that has appropriate environmental performance objectives and standards and measurement criteria for determining whether the objectives and standards have been met.</td>
-            </tr>
-            <tr>
-              <td valign="top"><strong>Oil Spill Response:</strong></td>
-              <td valign="top">NOPSEMA is the Statutory Agency responsible for the oversight of response actions to pollution events from offshore petroleum activities in areas of Commonwealth jurisdiction. Oil spill contingency plans are required to be submitted to NOPSEMA as part of the environment plan prior to commencement of an activity. NOPSEMA is not an oil spill combat agency.</td>
+              <td valign="top"><strong>Compliance Assurance Mechanisms:</strong></td>
+              <td valign="top">NOPSEMA:
+				<ul>
+				<li>assesses duty-holder management plans against prescribed acceptance criteria</li>
+				<li>conducts inspections  of duty-holder compliance at facilities and regulated premises</li>
+				<li>investigates accidents, incidents and dangerous occurrences</li>
+				<li>undertakes compliance enforcement action utilizing a range of statutory enforcement options.</li>
+				</ul>
+			</td>
             </tr>
             <tr>
               <td valign="top"><strong>Transparency:</strong></td>
-              <td valign="top">Website, monthly newsletter including numerical inspection and incident data, industry anonymised aggregate health and safety statistics, safety case, well integrity and environment plan guidance notes, information brochures</td>
+              <td valign="top">Information is released on NOPSEMA’s website and regular publications including numerical inspection and incident data, aggregated health and safety statistics, safety case information, well integrity and environment plan guidance notes and information brochures. NOPSEMA is also bound by government accountability processes and participates in various public forums.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Financial Basis:</strong></td>
-              <td valign="top">Full cost recovery through prescribed levies and cost based levy on major investigations.</td>
+              <td valign="top">NOPSEMA is the Statutory Agency responsible for the oversight of response actions to pollution events from offshore petroleum activities in areas of Commonwealth jurisdiction. Oil spill contingency plans are required to be submitted to NOPSEMA as part of the environment plan prior to commencement of an activity. NOPSEMA is not an oil spill combat agency.</td>
             </tr>
             <tr>
-              <td valign="top"><strong>Profile Author:</strong></td>
-              <td valign="top">Jane Cutler<br />
+              <td valign="top"><strong>Profile author:</strong></td>
+              <td valign="top">Stuart Smith<br />
                 Chief Executive Officer<br />
-                NOPSA</td>
+                NOPSEMA</td>
             </tr>
             <tr>
               <td valign="top"><strong>Profile Date:</strong></td>
-              <td valign="top">1 January 2012</td>
+              <td valign="top">30 July 2015</td>
             </tr>
           </table>
           <p>&nbsp;</p>

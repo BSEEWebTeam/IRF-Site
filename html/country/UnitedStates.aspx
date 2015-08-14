@@ -41,19 +41,19 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Regime Scope:</strong></td>
-              <td valign="top">Authorization includes regulation of oil, gas, and sulphur exploration, development, and production operations on the United States Federal Outer Continental Shelf (OCS). BSEE also regulates the use of Federal offshore sand for beach nourishment and coastal protection projects. In 2005, BSEE was authorized to lease and regulate alternative energy projects on the Federal OCS.</td>
+              <td valign="top">Authorization includes regulation of oil, gas, and sulphur exploration, development, and production operations on the United States Federal Outer Continental Shelf (OCS).</td>
             </tr>
             <tr>
               <td valign="top"><strong>Administering Agency /Arrangements:</strong></td>
-              <td valign="top">Federal government: the Bureau of Safety and Environmental Enforcement is a bureau within the US Department of the Interior.</td>
+              <td valign="top">Federal government: the Bureau of Safety and Environmental Enforcement is a bureau within the U.S. Department of the Interior (DoI).</td>
             </tr>
             <tr>
               <td valign="top"><strong>Legislation Type:</strong></td>
-              <td valign="top">The OCS Lands Act (OCSLA) is the primary statute governing offshore oil and gas, and marine mineral activities. The Energy Policy Act of 2005 amended OCSLA to add new authority for alternative energy projects in Federal offshore waters. Regulations governing OCS oil and gas, mineral, and alternative energy activities can be found in Title 30 of the Code of Federal Regulations.</td>
+              <td valign="top">The OCS Lands Act (OCSLA) is the primary statute governing offshore oil, gas, and marine mineral activities. Regulations governing OCS oil, gas, and minerals can be found in Title 30 of the Code of Federal Regulations.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Extent Of Government Approval:</strong></td>
-              <td valign="top">Lease issuance, exploration and development/production plan approvals, drilling permits, completion and work-over permits, production safety system permits, structural permits, pipeline rights-of-way, and decommissioning plans. Permits for geological and geophysical operations on un-leased lands.</td>
+              <td valign="top">Drilling permits, completion and work-over permits, production safety system permits, structural permits, pipeline rights-of-way, safety and environmental management systems oversight, oil spill preparedness, and decommissioning applications.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Nature Of Duties Imposed:</strong></td>
@@ -61,32 +61,31 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Physical Objects In The Regime:</strong></td>
-              <td valign="top"><p>- Oil and gas exploration and production in the Gulf of Mexico (3200 platforms, ~75 MODUs, 33,000 miles of pipeline, subsea production systems, wide range of support equipment), offshore California (23 production platforms, 188 miles of pipeline, development from existing facilities, record extended reach wells), and the Beaufort Sea (production from an artificial island, second production project in construction, ongoing exploration). Planning for additional oil and gas exploration in the Chukchi Sea and Beaufort Sea is underway.</p>
-              <p>- 1 offshore wind farm lease (Nantucket Sound) is currently being evaluated for lease issuance.  </p>
-              <p>- BSEE assists the US Coast Guard on the review of offshore LNG gasification ports. 17 applications have been received and 7 have been approved. Two facilities are now operating. </p></td>
+              <td valign="top"><p>Oil and gas exploration and production in the Gulf of Mexico (2500 platforms, 45 MODUs, 27,000 miles of pipeline, subsea production systems, wide range of support equipment), offshore California (23 production platforms, 213 miles of pipeline, development from existing facilities, extended reach wells), and the Beaufort Sea (production from an artificial island, second production project in planning, ongoing exploration). Additional oil and gas exploration is underway in the Chukchi Sea and in the planning stage in the Beaufort Sea.</p>
+              <p>BSEE assists the US Coast Guard on the review of offshore LNG gasification ports. To date, 17 applications have been received and 7 have been approved. Two facilities are operating now.</p></td>
             </tr>
             <tr>
               <td valign="top"><strong>Assurance Mechanisms:</strong></td>
-              <td valign="top"><p>- BSEE inspectors and investigators are based in 7 district offices (5 in the GOM, 1 in California, 1 in Alaska), and fly offshore regularly. OCS Lands Act mandates annual inspections. Inspectors have authority to issue Incidents of non-compliance which may be a warning or a facility shut-in.  Civil penalties may be issued when violations pose actual harm or threat of harm to personnel or the environment.</p>
+              <td valign="top"><p>BSEE inspectors and investigators are based in 6 district offices (5 in the Gulf of Mexico, 1 in California) and one regional office in Alaska, and fly offshore regularly. OCS Lands Act mandates annual inspections. Inspectors have authority to issue Incidents of Non-Compliance, which may be a warning or a facility shut-in order. BSEE may assess civil penalties for failures to follow the law, regulations, licenses, permits, or orders.</p>
               <p>- Industry self-inspections and records are required by regulation.
               <p>- Drills (spill response, BOPE, H2S, evacuation, etc) are required and may be initiated by BSEE without notice.
               <p>- 3rd party reviews (design, fabrication, and installation) are required for deepwater or novel structures.</p></td>
             </tr>
             <tr>
               <td valign="top"><strong>Financial Basis:</strong></td>
-              <td valign="top">Approximately 50% of the funding for BSEE’s offshore program are from rental fees on OCS leases and cost recovery assessments. The remainder of the funding is from annual congressional appropriations.   </td>
+              <td valign="top">Approximately 60% of BSEE’s total funding is derived from the collection of inspection fees, rental receipts on OCS leases, and cost recovery assessments. The remainder of the funding comes from annual congressional appropriations.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Environmental Regulation Responsibilities:</strong></td>
-              <td valign="top">The National Environment Policy Act (NEPA) is the foundation of environmental policymaking in the United States. The intent of the NEPA process is to help public officials make decisions based on an understanding of environmental consequences and take actions that protect, restore, and enhance the environment. The NEPA established the <a href="http://www.whitehouse.gov/ceq/">Council on Environmental Quality</a> (CEQ) to advise agencies on the environmental decision making process and to oversee and coordinate the development of Federal environmental policy. The CEQ issued regulations <a href="http://ceq.hss.doe.gov/nepa/regs/ceq/toc_ceq.htm">(40 CFR 1500-1508)</a> in 1978 implementing NEPA. BSEE prepares environmental impact statements and environmental assessments at various stages including leasing, exploration plans and development plans. BSEE also coordinates with other Federal bureaus and agencies in reviewing environmental implications of planned OCS activities   </td>
+              <td valign="top">The National Environment Policy Act (NEPA) is the foundation of environmental decision-making in the United States. NEPA is a procedural stature that helps inform executive agency decision-making based on an understanding of environmental consequences and a meaningful evaluation of reasonable alternatives. The NEPA established the <a href="https://www.whitehouse.gov/administration/eop/ceq/">Council on Environmental Quality (CEQ)</a> to advise agencies on the environmental decision-making process and to oversee and coordinate the development of Federal environmental policy. The CEQ issued regulations (40 CFR 1500-1508) in 1978 implementing NEPA, which were adopted by DoI. BSEE relies on the principles established by NEPA to inform its decision-making.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Oil Spill Response:</strong></td>
-              <td valign="top">BSEE is responsible for planning (i.e. reviewing preparations) for potential oil spills related to oil and gas operations on the Federal Outer Continental Shelf. Operators are required to submit Oil Spill Response Plans for approval by the Bureau. These plans must address worst case discharge and response capabilities including equipment and response time. BSEE conducts annual inspections of equipment and conducts drills to test industry response. Through a unified command structure, BSEE shares responsibility with the United States Coast Guard (USCG) in incident response. The USCG acts as the Federal On Scene Coordinator and leads the operational spill response and BSEE focus is on source control.</td>
+              <td valign="top">BSEE oversees oil spill planning and preparedness for U.S. facilities located in both state and federal waters seaward of the coastline that handle, store or transport oil. This authority is granted through the Oil Pollution Act of 1990 and Executive Order 12777. BSEE reviews Oil Spill Response Plans (OSRPs) to verify that the owner or operator and any contract personnel have met all training and exercise requirements and are prepared to execute the plans; conducts unannounced exercises to test the plans; and verifies that the oil spill response equipment listed in the OSRP is maintained properly and readily available. BSEE also monitors oil spill incident reports, reviews and analyzes follow-up reports on spill responses for process improvement, provides technical assistance to Federal On-Scene Coordinators (FOSCs) in the event of an oil spill, and supports other actions taken by the Department of the Interior (DoI).  Finally, BSEE manages a robust oil spill research and development program.  For more than 25 years, BSEE has maintained a comprehensive, long-term research program dedicated to improving oil spill response options. The major focus of the program is to improve the methods and technologies used for oil spill detection, containment, treatment, recovery, and cleanup. BSEE has source control authority in the event of a blowout on the OCS.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Transparency:</strong></td>
-              <td valign="top"><p>Nearly all aspects BSEE’s functions and responsibilities are addressed at the website www.BSEE.gov. The website addresses the organization and responsibilities of each division and region of the bureau.  All of the environmental studies and technical research that has been conducted is posted to the website. Statistics and investigation reports conducted by BSEE are posted or linked within the website.  All Notices to Lessees which provide clarification of regulations are posted on the website. The site also provides a Fast Fact query function that allows the public to query many aspects of the data that BSEE controls including but not limited to:
+              <td valign="top"><p>Nearly all aspects of BSEE’s functions and responsibilities are described at www.BSEE.gov. The website addresses the organization and responsibilities of each division and region of the bureau. All of the environmental studies and technical research that have been conducted are posted to the website. Statistics and investigation reports conducted by BSEE are posted or linked within the website. All Notices to Lessees, which provide clarification of regulations, are posted on the website. The site also provides a Fast Fact query function that allows the public to query many aspects of the data that BSEE controls including but not limited to:
               <ul>
                 <li>Applications for Permit to Drill</li>
                 <li>Boreholes Drilled</li>
@@ -104,14 +103,14 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Profile Author:</strong></td>
-              <td valign="top">Lars Herbst<br />
-                Regional Director, Gulf of Mexico Region<br />
-                Bureau of Safety and Environmental Enforcement<br />
+              <td valign="top">Mark Fleming<br />
+                International Relations Specialist<br />
+                BSEE Office of Congressional and International Affairs
               </td>
             </tr>
             <tr>
               <td valign="top"><strong>Profile Date:</strong></td>
-              <td valign="top">30 August 2010</td>
+              <td valign="top">3 August 2015</td>
             </tr>
           </table>
           <p>&nbsp;</p>

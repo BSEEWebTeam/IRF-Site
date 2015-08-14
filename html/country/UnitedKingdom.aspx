@@ -37,11 +37,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Organisation:</strong></td>
-              <td valign="top">Health and Safety Executive</td>
+              <td valign="top">Health and Safety Executive (HSE)</td>
             </tr>
             <tr>
               <td valign="top"><strong>Regime Scope:</strong></td>
-              <td valign="top">Health &amp Safety.  The Health and Safety regime applies onshore and offshore with specific legislation (alongside general H &amp S legislation) for the upstream oil and gas industry.</td>
+              <td valign="top">Health & Safety. The Health and Safety regime applies onshore and offshore with specific legislation (alongside general H & S legislation) for the upstream oil and gas industry.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Administering Agency /Arrangements:</strong></td>
@@ -49,11 +49,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Legislation Type:</strong></td>
-              <td valign="top">National Health and Safety at Work etc. Act 1974 and supporting regulations. A combination of legislation applicable to all industries with additional specific major hazard regulations for the offshore oil and gas industry. Non major hazard legislation is applied offshore on an activity basis.</td>
+              <td valign="top">National Health and Safety at Work etc. Act 1974 and supporting legislation applicable to all industries.  Operation of a Competent Authority in partnership with the UK Department of Energy and Climate Change (DECC) to regulate offshore major safety and environmental hazards under specific legislation that implements the EU Offshore Safety Directive and aligns the UK approach with other EU member states.  Non major hazard legislation is applied offshore on an activity basis.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Extent Of Government Approval:</strong></td>
-              <td valign="top">Duty holders must prepare and submit a safety case to HSE for assessment and acceptance, before an offshore installation can operate in the UK sector.</td>
+              <td valign="top">Duty holders must prepare and submit a safety case to the DECC\HSE Competent Authority for assessment and acceptance, before an offshore installation can operate in the UK sector.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Nature Of Duties Imposed:</strong></td>
@@ -61,7 +61,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Physical Objects In The Regime:</strong></td>
-              <td valign="top">Offshore specific legislation applies to Offshore Installations as defined in the regulations. These include fixed and floating production installations, plus non-production installations such as MODU's, FSU's, flotels and others, according to their exposure to major hazard risks. In total, there are around 290 surface installations and another approx 25 mobile drilling rigs in the UK sector on an annual basis.  </td>
+              <td valign="top">Offshore specific legislation applies to Offshore Installations as defined in the regulations. These include fixed and floating production installations, plus non-production installations such as MODU's, flotels and others, according to their exposure to major hazard risks. In total, there are around 290 surface installations and another approx 25 mobile drilling rigs in the UK sector on an annual basis.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Assurance Mechanisms:</strong></td>
@@ -73,24 +73,24 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Environmental Regulation Responsibilities:</strong></td>
-              <td valign="top"><p>Although the Health & Safety Executive (HSE) is responsible for assessing the integrity & safety of offshore installations in the UK via the Offshore Safety Case Regulations (OSCR).  DECC (Department of Energy and Climate Change) is responsible for developing the environmental regulatory framework for the UKCS.  DECC administer and ensure compliance with that environmental regime in relation to offshore oil and gas exploration and production and decommissioning.  This includes the approval of Oil Pollution Emergency Plans (OPEPs).</p></td>
+              <td valign="top"><p>The UK HSE regulates health and safety in the offshore oil and gas industry. DECC is responsible for the regulation of environmental and pollution control matters in relation to the UK offshore oil and gas industry. This ranges from environmental assessment prior to any offshore activity commencing through to decommissioning. It also includes the approval of Oil Pollution Emergency Plans (OPEPs), without which an offshore installation cannot commence operations.  Both organisations cooperate in partnership as the Competent Authority for the purposes of the EU Offshore Safety Directive.</p></td>
             </tr>
             <tr>
               <td valign="top"><strong>Oil Spill Response:</strong></td>
-              <td valign="top"><p>The implementation of any counter pollution measures deployed to minimise the pollution incident  is the responsibility of the operator, their third party oil spill responder and the Maritime and Coastguard Agency (MCA).  MCA, an Executive Agency of the Department for Transport is responsible, if required, for deploying any counter pollution measures to minimise pollution incident, and the Secretary of State's Representative (SoSRep) has ultimate powers of intervention. </p></td>
+              <td valign="top"><p>The implementation of any counter pollution measures deployed to minimise the pollution incident is the responsibility of the operator, their third party oil spill responder and the Maritime and Coastguard Agency (MCA). MCA, an Executive Agency of the Department for Transport is responsible, if required, for deploying any counter pollution measures to minimise pollution incident, and the Secretary of State's Representative (SoSRep) has ultimate powers of intervention.</p></td>
             </tr>
             <tr>
               <td valign="top"><strong>Transparency:</strong></td>
-              <td valign="top">The offshore section of HSE's website (<a href="http://www.hse.gov.uk/offshore/index.htm">www.hse.gov.uk/offshore/</a>) provides a wide range of related information, including annual offshore health & safety statistics, reports of key intervention programmes, full details of HSE's internal assessment procedures and standards, and  safety alerts and information. </td>
+              <td valign="top">The offshore section of HSE's website (<a href="http://www.hse.gov.uk/offshore/index.htm">www.hse.gov.uk/offshore/</a>) provides a wide range of related information, including annual offshore health & safety statistics, reports of key intervention programmes, full details of HSE's internal assessment procedures and standards, and safety alerts and information.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Profile Author:</strong></td>
-              <td valign="top">Steve Walker<br />
-                Head of HSE&rsquo;s Offshore Division</td>
+              <td valign="top">Tony Hetherington<br />
+                Head of HSE’s Offshore Division</td>
             </tr>
             <tr>
               <td valign="top"><strong>Profile Date:</strong></td>
-              <td valign="top">18 March 2011</td>
+              <td valign="top">17 July 2015</td>
             </tr>
           </table>
           <p>&nbsp;</p>

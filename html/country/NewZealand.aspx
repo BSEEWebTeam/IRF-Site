@@ -37,15 +37,15 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Organisation:</strong></td>
-              <td valign="top">Department of Labour</td>
+              <td valign="top">WorkSafe New Zealand</td>
             </tr>
             <tr>
               <td valign="top"><strong>Regime Scope:</strong></td>
-              <td valign="top">Health &amp; Safety.  Health and Safety regime applies onshore and offshore with specific regulations for the petroleum industry.</td>
+              <td valign="top">Health & Safety. Health and Safety regime applies onshore and offshore with specific regulations for the petroleum industry.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Administering Agency /Arrangements:</strong></td>
-              <td valign="top">Department of Labour which is a government agency.</td>
+              <td valign="top">WorkSafe is New Zealand’s workplace health and safety regulator.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Legislation Type:</strong></td>
@@ -53,31 +53,31 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Extent Of Government Approval:</strong></td>
-              <td valign="top">Safety cases are not approved.  Safety cases are reviewed but no approval is given</td>
+              <td valign="top">Safety case approval is required before operating.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Nature Of Duties Imposed:</strong></td>
-              <td valign="top">General duty to take all practicable steps to ensure safety at work.  Primarily goal setting legislation.  There are also some prescriptive requirements with respect to offshore installations.</td>
+              <td valign="top">General duty to take all practicable steps to ensure safety at work. Primarily goal setting legislation. There are also some prescriptive requirements with respect to offshore installations.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Physical Objects In The Regime:</strong></td>
-              <td valign="top">Currently 7 fixed offshore installations which include 2 FPSOs and sets of sub sea wellheads. 1 MODU is currently offshore New Zealand. There is an urgency from the government to award additional exploration licenses.</td>
+              <td valign="top">Currently 5 fixed offshore installations which include 2 FPSOs and sets of sub sea wellheads. The New Zealand government is actively encouraging further exploration.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Assurance Mechanisms:</strong></td>
-              <td valign="top">Government inspectorate.  Installations are also required to have a Certificate of Fitness from a Certifying Authority, or an employer may seek approval to operate a Verification Scheme.</td>
+              <td valign="top">Government inspectorate. Installations are also required to have a Certificate of Fitness from a Certifying Authority, or an employer may seek approval to operate a Verification Scheme.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Financial Basis:</strong></td>
-              <td valign="top">Fully government funded.  There is no cost recovery from industry.</td>
+              <td valign="top">Fully government funded. There is partial cost recovery from industry in the form of safety case assessment fees.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Environmental Regulation Responsibilities:</strong></td>
-              <td valign="top"><p>The Department of Labour (DoL) role with regard to protecting the natural environment is directed primarily at the preventive side by helping to ensure that environmentally harmful incidents do not occur. In addition, The DoL has a role in connection with the operator's emergency preparedness for stopping a leak or blow-out through continuous monitoring of Operators daily drilling reports and operational activities.</p></td>
+              <td valign="top"><p>WorkSafe’s role with regard to protecting the natural environment is directed primarily at prevention. The general duties under the health and safety legislation to maintain well integrity contribute to the avoidance, of environmental harm.</p></td>
             </tr>
             <tr>
               <td valign="top"><strong>Oil Spill Response:</strong></td>
-              <td valign="top"><p>Issues related to oil spill response is the responsibility of Maritime New Zealand. <a href="http://www.maritimenz.govt.nz/">www.maritimenz.govt.nz</a>. This is supplemented by Regional Councils when the spill reaches the New Zealand Coastline for the operational side of such clean-ups. The DoL will monitor and assist at the source of the spill as required by the New Zealand Health Safety and Employments act 1995 Petroleum Exploration and extraction regulations 1999.</p></td>
+              <td valign="top"><p>Issues related to oil spill response is the responsibility of Maritime New Zealand. <a href="www.maritimenz.govt.nz">www.maritimenz.govt.nz</a>. This is supplemented by Regional Councils when the spill reaches the New Zealand Coastline for the operational side of such clean-ups. WorkSafe will monitor and assist at the source of the spill as required by the New Zealand Health Safety and Employments act 1995 and the Petroleum Exploration and extraction regulations 2013.</p></td>
             </tr>
             <tr>
               <td valign="top"><strong>Transparency:</strong></td>
@@ -88,11 +88,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
               <td valign="top"><strong>Profile Author:</strong></td>
               <td valign="top">Wayne Vernon<br />
                 Chief Inspector, Petroleum and Geothermal<br />
-                Department of Labour | Te Tari Mahi</td>
+                WorkSafe New Zealand | Mahi Haumaru Aotearoa</td>
             </tr>
             <tr>
               <td valign="top"><strong>Profile Date:</strong></td>
-              <td valign="top">18 March 2011</td>
+              <td valign="top">23 July 2015</td>
             </tr>
           </table>
           <p>&nbsp;</p>
