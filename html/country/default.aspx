@@ -51,7 +51,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td><a href="Mexico.aspx">Mexico</a></td>
-              <td>National Hydrocarbons Commission (CNH)</td>
+              <td>National Agency for Safety, Energy and Environment of Mexico (ASEA)</td>
             </tr>
             <tr>
               <td><a href="Netherlands.aspx">Netherlands</a></td>
