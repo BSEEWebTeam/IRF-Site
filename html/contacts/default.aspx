@@ -42,37 +42,45 @@
                      <a href="mailto:dchicoyne@cnlopb.ca">dchicoyne@cnlopb.ca</a></p>
                 <p>Canada-Nova Scotia Offshore Petroleum Board, (CNSOPB)<br />
                 <a href="mailto:klandra@cnsopb.ns.ca">klandra@cnsopb.ns.ca</a></p>
+				<p>National Energy Board (NEB)<br />
+                <a href="mailto:keith.landra@neb-one.gc.ca">keith.landra@neb-one.gc.ca</a></p>
                 </td>
             </tr>
             <tr>
               <td valign="top"><strong>Denmark:</strong></td>
-              <td valign="top">Danish Working Environment Authority (WEA)<br />
-				  <a href="mailto:prh@ens.dk">prh@at.dk</a>
+              <td valign="top">Danish Working Environment Authority (DWEA)<br />
+				  <a href="mailto:prh@at.dk">prh@at.dk</a>
 						</td>
 					</tr>
             <tr>
               <td valign="top"><strong>Mexico:</strong></td>
-              <td valign="top">National Hydrocarbons Commission (CNH)<br />
-				  <a href="mailto:oscar.roldan@cnh.gob.mx">oscar.roldan@cnh.gob.mx</a>
+              <td valign="top">Agency for Safety, Energy and Environment (ASEA)<br />
+				  <a href="mailto:alfonso.zegbe@asea.gob.mx">alfonso.zegbe@asea.gob.mx</a>
 				</td>
 			</tr>
             <tr>
               <td valign="top"><strong>Netherlands:</strong></td>
-              <td><p>State Supervision of Mines, the Netherlands, (SSM)<br />
-                <a href="v.c.m.claessens@minez.nl">v.c.m.claessens@minez.nl</a></p>
+              <td><p>State Supervision of Mines (SSM)<br />
+                <a href="mailto:v.c.m.claessens@minez.nl">v.c.m.claessens@minez.nl</a></p>
                 </td>
             </tr>
             <tr>
               <td valign="top"><strong>New Zealand:</strong></td>
-              <td><p>Department of Labour Workplace Services<br />
-                      <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#87;&#97;&#121;&#110;&#101;&#46;&#86;&#101;&#114;&#110;&#111;&#110;&#64;&#100;&#111;&#108;&#46;&#103;&#111;&#118;&#116;&#46;&#110;&#122;">&#87;&#97;&#121;&#110;&#101;&#46;&#86;&#101;&#114;&#110;&#111;&#110;&#64;&#100;&#111;&#108;&#46;&#103;&#111;&#118;&#116;&#46;&#110;&#122;</a><br />
-                      <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#66;&#114;&#101;&#116;&#116;&#46;&#77;&#117;&#114;&#114;&#97;&#121;&#64;&#100;&#111;&#108;&#46;&#103;&#111;&#118;&#116;&#46;&#110;&#122;">&#66;&#114;&#101;&#116;&#116;&#46;&#77;&#117;&#114;&#114;&#97;&#121;&#64;&#100;&#111;&#108;&#46;&#103;&#111;&#118;&#116;&#46;&#110;&#122;</a>
+              <td><p>WorkSafe NZ<br />
+                      <a href="mailto:Wayne.Vernon@dol.govt.nz">Wayne.Vernon@dol.govt.nz</a><br />
+                      <a href="mailto:Brett.Murray@dol.govt.nz">Brett.Murray@dol.govt.nz</a>
               </p></td>
             </tr>
             <tr>
               <td width="23%" valign="top"><strong>Norway:</strong></td>
-              <td width="77%"><p>Petroleum Safety Authority Norway<br />
+              <td width="77%"><p>Petroleum Safety Authority (PSA)<br />
                   <a href="mailto:Thor.Dahle@ptil.no">Thor.Dahle@ptil.no</a></p></td>
+            </tr>
+            <tr>
+              <td valign="top"><strong>United Kingdom:</strong></td>
+              <td><p>Health and Safety Executive (HSE)<br />
+                <a href="mailto:jean.flett@hse.gsi.gov.uk>jean.flett@hse.gsi.gov.uk</a></p>
+			  </td>
             </tr>
             <tr>
               <td valign="top"><strong>United States:</strong> </td>
@@ -80,12 +88,7 @@
                 <a href="mailto:bseeoip@bsee.gov">bseeoip@bsee.gov</a></p>
       			  </td>
             </tr>
-            <tr>
-              <td valign="top"><strong>United Kingdom:</strong></td>
-              <td><p>The Health and Safety Executive, Great Britain, (HSE)<br />
-                <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#106;&#101;&#97;&#110;&#46;&#102;&#108;&#101;&#116;&#116;&#64;&#104;&#115;&#101;&#46;&#103;&#115;&#105;&#46;&#103;&#111;&#118;&#46;&#117;&#107;">&#106;&#101;&#97;&#110;&#46;&#102;&#108;&#101;&#116;&#116;&#64;&#104;&#115;&#101;&#46;&#103;&#115;&#105;&#46;&#103;&#111;&#118;&#46;&#117;&#107;</a></p>
-			  </td>
-            </tr>
+
           </table></td>
         </tr>
     </table></td>

@@ -32,13 +32,10 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <h2>Annual Meetings</h2>
           <p>The IRF hold annual plenary  meetings.&nbsp; Agenda items at meetings  include country updates and technical sessions, and cover health and safety  issues likely to be of common interest, with technical sessions addressing  matters such as lessons from incidents, research findings, and regulatory  initiatives.</p>
           <p>Annual meetings also include a review of joint activity  during the previous year, and consideration of any shared work to be carried  forward in the coming year, with agreed commitment and responsibility for the  topic lead.</p>
-
-<p>The next IRF Annual Meeting will be held in Cancun, Mexico and will be facilitated by the National Hydrocarbons Commission.</p>
-
-
+		  <p>The next IRF Annual Meeting will be held in Cancun, Mexico and will be facilitated by the National Hydrocarbons Commission.</p>
+		  
 				<table border="0" cellpadding="4" cellspacing="1" summary="">
 				<tr><td><a href="IRF 2013 Annual Meeting Minutes.pdf">IRF Annual Meeting Minutes 2013</a></td></tr>
-				<tr><td>&nbsp;</td></tr>
 				<tr><td><a href="IRF 2012 Annual Meeting Notes.pdf">IRF Annual Meeting Minutes 2012</a></td></tr>
 				<tr><td><a href="IRF 2011 Annual Meeting Notes.pdf">IRF Annual Meeting Notes 2011</a></td></tr>
 				<tr><td><a href="IRF 2010 Annual Meeting Minutes.pdf">IRF Annual Meeting Notes 2010</a></td></tr>

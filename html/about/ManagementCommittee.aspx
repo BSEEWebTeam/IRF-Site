@@ -30,12 +30,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
       <tr>
         <td valign="top"><!--#include virtual="/shared/newsdropdown.aspx" -->
           <br />
-
           <h1>IRF Management Committee</h1>
             <ul>
-            <li><strong>Jane Cutler,</strong> NOPSEMA, Australia</li>
-            <li><strong>Raphael Moura,</strong> ANP, Brazil</li>
-            <li><strong>Oscar Roldán Flores,</strong> CNH, Mexico</li>
+            <li><strong>Chairman Brian M. Salerno,</strong> BSEE, United States</li>
+            <li><strong>Carlos de Regules,</strong> ASEA, Mexico</li>
+            <li><strong>Brett Murray,</strong> WorkSafe NZ, New Zealand</li>
             </ul>
         </td>
       </tr>

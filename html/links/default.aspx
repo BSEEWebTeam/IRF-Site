@@ -39,44 +39,47 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <h2>useful links </h2>
           <p><strong><a name="section1" class="style1"><br />
             International Industry Associations</a></strong><br />
-            <br />
-International Association of oil  and gas producers (OGP) <br />
-<a href="http://www.ogp.org.uk/" target="_blank">http://www.ogp.org.uk/</a></p>
+            <br /></p>
           <p>International Association of  Drilling Contractors (IADC)<br />
             <a href="http://www.iadc.org/" target="_blank">http://www.iadc.org/</a></p>
-          <p> International Maritime Organisation<br />
-            <a href="http://www.imo.org/" target="_blank">http://www.imo.org/</a></p>
-          <p>International Marine Contractors  Association<br />
-            <a href="http://www.imca-int.com/" target="_blank">http://www.imca-int.com/</a></p>
+		  <p>International Association of oil  and gas producers (OGP) <br />
+			<a href="http://www.ogp.org.uk/" target="_blank">http://www.ogp.org.uk/</a></p>
+          <p>International Energy Agency<br />
+            <a href="http://www.iea.org/" target="_blank">http://www.iea.org/</a></p>
           <p>International Labour Organisation<br />
             <a href="http://www.ilo.org/" target="_blank">http://www.ilo.org/</a></p>
+          <p>International Marine Contractors  Association<br />
+            <a href="http://www.imca-int.com/" target="_blank">http://www.imca-int.com/</a></p>
+          <p>International Maritime Organisation<br />
+            <a href="http://www.imo.org/" target="_blank">http://www.imo.org/</a></p>
           <p>Offshore Mechanical Handling  Equipment Committee<br />
-          <a href="http://www.omhec.org/" target="_blank">http://www.omhec.org/</a><br />
+            <a href="http://www.omhec.com/" target="_blank">http://www.omhec.com/</a></p>
+          <p>Society of Petroleum Engineers<br />
+          <a href="http://www.spe.org/" target="_blank">http://www.spe.org/</a><br />
           <br />
         <strong><a name="section2" class="style1"><br />
   National  Industry Associations</a></strong><br />
   <br />            
   American Petroleum Institute<br />
             <strong><a href="http://www.api.org/" target="_blank">http://www.api.org/</a>&nbsp;&nbsp; </strong></p>
-          <p>The Norwegian Oil Industry  Association<br />
-            <a href="http://www.olf.no/english/about/" target="_blank">http://www.olf.no/english/about/</a></p>
-          <p>Netherlands Oil and Gas Exploration  and Production Association<br />
-            <a href="http://www.nogepa.nl/" target="_blank">http://www.nogepa.nl/</a></p>
-          <p>National Ocean Industries  Association<br />
-            <a href="http://www.noia.org/" target="_blank">http://www.noia.org</a></p>
-          <p>Offshore  Operators Committee<br />
-            <a href="http://offshoreoperators.com/" target="_blank">http://offshoreoperators.com</a></p>
-          <p>Oil &amp; Gas UK (formerly United Kingdom Offshore Operators Association )<br />
-            <a href="http://www.ukooa.co.uk/" target="_blank">http://www.ukooa.co.uk/</a></p>
           <p>Australian Petroleum Production  and Exploration Association (APPEA) <br />
             <a href="http://www.appea.com.au/" target="_blank">http://www.appea.com.au</a></p>
           <p>European Agency for Safety and  Health at Work<br />
-            <a href="http://osha.europa.eu/OSHA" target="_blank">http://osha.europa.eu/OSHA<br />
-            </a><br />
+            <a href="http://osha.europa.eu/OSHA" target="_blank">http://osha.europa.eu/OSHA</a></p>
+          <p>National Ocean Industries  Association<br />
+            <a href="http://www.noia.org/" target="_blank">http://www.noia.org</a></p>
+          <p>Netherlands Oil and Gas Exploration  and Production Association<br />
+            <a href="http://www.nogepa.nl/" target="_blank">http://www.nogepa.nl/</a></p>
+          <p>The Norwegian Oil Industry  Association<br />
+            <a href="http://www.olf.no/english/about/" target="_blank">http://www.olf.no/english/about/</a></p>
+          <p>Offshore  Operators Committee<br />
+            <a href="http://offshoreoperators.com/" target="_blank">http://offshoreoperators.com</a></p>
+          <p>Oil &amp; Gas UK (formerly United Kingdom Offshore Operators Association )<br />
+            <a href="http://www.ukooa.co.uk/" target="_blank">http://www.ukooa.co.uk/</a><br />
             <strong><a name="section3" class="style1" id="section3"><br />
             World  Wide Safety Initiatives</a></strong></p>
           <p>Step Change in Safety<br />
-            <a href="http://stepchangeinsafety.net/stepchange/" target="_blank">http://stepchangeinsafety.net/stepchange/</a><br />
+            <a href="https://www.stepchangeinsafety.net/" target="_blank">https://www.stepchangeinsafety.net/</a><br />
             <br />
   Working  Together for Safety<br />
   <a href="http://www.samarbeidforsikkerhet.no/category.aspx?CatId=140" target="_blank">http://www.samarbeidforsikkerhet.no/</a></p>

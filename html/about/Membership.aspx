@@ -34,15 +34,15 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <h1>IRF Membership</h1>
           <ul>
             <li>National Offshore Petroleum Safety and Environmental Management Authority, Australia (NOPSEMA)</li>
-            <li>Petroleum  Safety Authority, Norway, (PSA)</li>
-            <li>US Bureau of Safety and Environmental Enforcement (BSEE)</li>
-            <li>Danish Working Environment Authority (WEA)</li>
-            <li>National Hydrocarbons Commission, Mexico (CNH)</li>
-            <li>New  Zealand Department of Labor, (DOL)</li>
-            <li>Canada-Newfoundland and Labrador Offshore Petroleum Board, (C-NLOPB) and Canada-Nova Scotia Offshore Petroleum Board, (CNSOPB)</li>
-            <li>Brazilian  National Petroleum Agency, (ANP)</li>
-            <li>The  Health and Safety Executive, Great Britain, (HSE)</li>
-            <li>State  Supervision of Mines, the Netherlands, (SSM) </li>
+            <li>National Petroleum Agency, Brazil (ANP)</li>
+            <li>Canada-Newfoundland and Labrador Offshore Petroleum Board (C-NLOPB)<br/>Canada-Nova Scotia Offshore Petroleum Board (CNSOPB)<br/>National Energy Board, Canada (NEB)</li>
+            <li>Danish Working Environment Authority, Denmark (DWEA)</li>
+            <li>Agency for Safety, Energy and Environment, Mexico (ASEA)</li>
+            <li>State Supervision of Mines, the Netherlands (SSM)</li>
+            <li>WorkSafe NZ, New Zealand</li>
+            <li>Petroleum Safety Authority, Norway (PSA)</li>
+            <li>Bureau of Safety and Environmental Enforcement, United States (BSEE)</li>
+            <li>The Health and Safety Executive, United Kingdom (HSE)</li>
           </ul>
         </td>
       </tr>

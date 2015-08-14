@@ -25,13 +25,13 @@
           <br />
             
           <h2>conferences</h2>
-          <p>The International Regulators Forum periodically hosts International Regulators Offshore Safety Conferences.</p>
+          <p>The International Regulators' Forum periodically hosts an Offshore Safety Conference.</p>
 
-          <p>Regulatory officials from all nations with ongoing or proposed offshore oil and gas activity are invited to attend. The purpose is to share experiences and to compare differences in regulatory approach and safety performance.  </p>
+          <p>Regulatory officials from all nations with ongoing or proposed offshore oil and gas activity are invited to attend. The purpose is to share experiences and to compare differences in regulatory approach and safety performance.</p>
 
-          <p>The most recent conference was the <a href="2013conference/">5th International Regulators' Offshore Safety Conference 2013</a> in Perth.</p>
+          <p>The next conference will be held in Washington D.C. on Oct. 19-20, 2015 and will be facilitated by the Bureau of Safety and Environmental Enforcement.  For information and to register for the conference, please visit:</p>
 
-          <p>The next conference will be held 2015, dates and location to be announced.</p>
+          <p><a href="http://www.bsee.gov/International-and-Interagency-Collaboration/International/IRF/2015-Offshore-Safety-Conference/">http://www.bsee.gov/International-and-Interagency-Collaboration/International/IRF/2015-Offshore-Safety-Conference/</a></p>
 
           <table border="0" cellpadding="4" cellspacing="1" summary="">
 

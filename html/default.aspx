@@ -27,7 +27,7 @@
 		<td valign="top" width="66%" style="padding: 10px 6px 0 20px;">
 
 
-          <p><strong>The International Regulators&rsquo; Forum (IRF) is a group of eleven regulators of health and safety in the offshore upstream oil and gas industry.  It exists to drive forward improvements in health and safety in the sector through collaboration in joint programmes, and through sharing information.</strong></p>
+          <p><strong>The International Regulators’ Forum (IRF) is a group of 12 regulators of health and safety in the offshore upstream oil and gas industry. It exists to drive forward improvements in health and safety in the sector through collaboration on joint programmes and information sharing.</strong></p>
 
 		  </td><td width="34%" style="padding: 10px 20px 0 6px;"><h1><strong>Current Issues</strong></h1>
 
