@@ -41,12 +41,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Regime Scope:</strong></td>
-              <td valign="top">The PSA is the relevant agency responsible for safety, emergency preparedness and the working environment in the petroleum industry. The regulatory regime applies to offshore installations and exploration, production and exploitation operations, as well as to their associated onshore processing facilities and refineries.
-</td>
+              <td valign="top">The PSA is the relevant agency responsible for safety, emergency preparedness and the working environment in the petroleum industry. The regulatory regime applies to offshore installations and exploration, production and exploitation operations, as well as to their associated onshore processing facilities and refineries.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Administering Agency /Arrangements:</strong></td>
-              <td valign="top">The PSA is an independent, government agency, which is accountable and provides advice to the Ministry of Labour.</td>
+              <td valign="top">The PSA is an independent, government agency, which is accountable and provides advice to the Ministry of Labour and Social Affairs.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Legislation Type:</strong></td>
@@ -58,12 +57,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Nature Of Duties Imposed:</strong></td>
-              <td valign="top">All companies have a general duty to ensure compliance with requirements of acts, statutory rules and regulations as well as their own, set requirements for their operations. The supervisory activities of the PSA do not exempt the duty holders of this duty.</td>
+              <td valign="top">All companies have a general duty to ensure safe operations and compliance with requirements of acts, statutory rules and regulations as well as their own set requirements for the operations. The supervisory activities of the PSA do not exempt the duty holders of this duty.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Physical Objects In The Regime:</strong></td>
-              <td valign="top">Offshore installations and onshore facilities. These include exploration and production installations, including FPSO's, MODU's, flotels, subsea arrangements, wells, pipelines and off- and onshore processing plants. Also, the main functions of pipe laying barges, lifting barges, diving or other support vessels are regulated by the regime.
-</td>
+              <td valign="top">Offshore installations and onshore facilities. These include exploration and production installations, including FPSO's, MODU's, flotels, subsea arrangements, wells, pipelines and off- and onshore processing plants. The main functions of pipe laying barges, lifting barges, diving or other support vessels are also regulated by the regime.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Assurance Mechanisms:</strong></td>
@@ -71,7 +69,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Financial Basis:</strong></td>
-              <td valign="top">Government general budget allocation. Expenses related to regulatory supervision, such as staff's working hours and travel expenses, must be refunded by the duty holders in accordance with rates set by the government. The refunded costs are paid into the Treasury. Typically, these amount to about 45% of the PSA's total operational budget.</td>
+              <td valign="top">Government general budget allocation. Expenses related to regulatory supervision, such as staff's working hours and travel expenses, must be refunded by the duty holders in accordance with rates set by the government. The refunded costs are paid into the Treasury. Typically, these amount to about 55 percent of the PSA's total operational budget.</td>
             </tr>
              <tr>
               <td valign="top"><strong>Environmental Regulation Responsibilities:</strong></td>
@@ -79,27 +77,23 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
                 <tr>
               <td valign="top"><strong>Oil Spill Response:</strong></td>
-              <td valign="top">Issues related to oil spill response is the responsibility of the  <a href="http://www.klif.no/no/english/english/">Norwegian Climate and Pollution Agency (Klif)</a>.
+              <td valign="top">Issues related to oil spill response is the responsibility of the  <a href="http://www.miljodirektoratet.no/en/">Norwegian Environment Agency</a>.
 The <a href="http://www.kystverket.no/?did=9103236">Norwegian Coastal Administration (NCA)</a> is responsible for the operational side of such clean-ups.
-Both the NCA and the <a href="http://www.nofo.no/">Norwegian Clean Seas Association for Operating Companies (Nofo)</a> will answer questions about the equipment used to clean up spills.
-</td>
+Both the NCA and the <a href="http://www.nofo.no/">Norwegian Clean Seas Association for Operating Companies (Nofo)</a> will answer questions about the equipment used to clean up spills.</td>
             </tr>
                 <tr>
               <td valign="top"><strong>Transparency:</strong></td>
-              <td valign="top"><p>The <a href="http://www.ptil.no/">PSA's webpage</a> is probably the most informative source of information about our regulatory system and activities. Almost everything we do and think of as a regulator is duly accounted for here.</p>
-<p>Most of the postings are also published in English. (This costs us a bit, but we do it for the benefit of media and for our good colleagues in other countries!)</p>
-<p>The website accounts for our organization and it also introduces you to some of the people that are happily working with the PSA, our day-to-day supervisory activities, and it features a number of articles related to regulatory professional issues. Statistics are posted here as well as our annual reports, such as the annual Risk Assessment Report and our annual report in magazine format – the Safety, Status and Signals, which has been well received by the industry as well as of our regulatory colleagues.</p>
-<p>Should a major accident occur in Norwegian waters or onshore, the PSA will quickly mobilize its Emergency Response Team, not least in part to be able to inform the central government and the public about the position. The PSA website will also change to bring the latest news about an accident.</p>
-<p>You might also want to know that the PSA has a dedicated special <a href="http://www.ptil.no/press-centre/deepwater-horizon-article6888-172.html">webpage</a> about what we as a regulator does in regard to the Deepwater Horizon/Macondo catastrophe.</p>
+              <td valign="top"><p>According to the Open Files Act, anyone has a right to insight into all governmental documents and information, with a few exceptions related to protection of personal information, national security, etc. The PSA receives around 2-3000 claims for insights per year of which only around 3 percent are declined.</p>
+			  <p>The <a href="http://www.ptil.no/">PSA's webpage</a> is probably the most informative source of information about organisation, regulatory system and activities.  The website accounts the day-to-day supervisory activities by publishing all audit reports as well as statutory decisions, and it features a number of articles related to regulatory professional issues. Statistics are posted on the website as annual reports, such as the annual Risk Assessment Report. The majority of the postings are also published in English.</p>
 </td>
             </tr>
             <tr>
               <td valign="top"><strong>Profile Author:</strong></td>
-              <td valign="top">Odd Bjerre Finnestad, Special Advisor, PSA</td>
+              <td valign="top">Finn Carlsen, Director for professional competence, PSA</td>
             </tr>
             <tr>
               <td valign="top"><strong>Profile Date:</strong></td>
-              <td valign="top">3 August 2010</td>
+              <td valign="top">13 August 2015</td>
             </tr>
           </table>
           <p>&nbsp;</p>
