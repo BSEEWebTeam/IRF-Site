@@ -41,11 +41,14 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Regime Scope:</strong></td>
-              <td valign="top">On- and offshore mining activities (oil, gas, salt exploration and production and terrestrial heat and underground storage of substances i.e. CO2) focused on safety, health, environment, optimal use of mineral resources, controlling earth movement e.g. subsidence.</td>
+              <td valign="top">Exploration, production, transport and storage of natural resources onshore and offshore.
+This scope further includes geothermal energy and offshore windmills.<br/>
+Supervision is focused on safety, health, environment and production efficiency.
+</td>
             </tr>
             <tr>
               <td valign="top"><strong>Administering Agency /Arrangements:</strong></td>
-              <td valign="top">State Supervision of Mines is an executive agency of the Ministry of Economic Affairs.</td>
+              <td valign="top">State Supervision of Mines is an independent agency  reporting to the Ministry of Economic Affairs.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Legislation Type:</strong></td>
@@ -58,16 +61,12 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                 Water Supply<br />
                 Metrology<br />
                 Gas <br />
-                Nuclear <br /></td>
+                Nuclear <br />
+				(the EU offshore Safety directive 2013/30/EU is transposed in the relevant National legislation)</td>
             </tr>
             <tr>
               <td valign="top"><strong>Extent Of Government Approval:</strong></td>
-              <td valign="top">- No permits required for geophysical operations <br />
-                - Permits for exploration and development / development plan approvals, wells and structures, pipeline, decommissioning plans<br />
-                - Safety and Health documents / management systems: SSM has the authority to enforce <br />
-                modifications (no formal approval)<br />
-                - Permits for the use of production chemicals and for certain drilling activities<br />
-                - Environmental permit for the use of installation<br /></td>
+              <td valign="top">- Permits required for geophysical operations<br/>- Permits for exploration and exploitation<br/>- approval for Reports on Major Hazards, development plans, drilling activities, new pipelines, decommissioning plans<br/>- Permits for the use of production chemicals and for certain drilling activities<br/>- Environmental permit for the use of an installation</td>
             </tr>
             <tr>
               <td valign="top"><strong>Nature Of Duties Imposed:</strong></td>
@@ -75,53 +74,41 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Physical Objects In The Regime:</strong></td>
-              <td valign="top">Platforms, drilling rigs, Pesos, Foss, types of marine vessels, pipelines, terminals, sub-sea completions, activity basis, other high hazards: <br />
-                - 150 fixed offshore installations <br />
-                - 600 onshore mining locations<br />
-                - +/- 10 MODUs, 5 land rigs<br />
-                - Offshore 2500 km of high pressure (75 bar) pipelines and 1500 km of onshore pipelines<br />
-                - 2 Offshore wind farms<br /></td>
+              <td valign="top">Platforms, drilling rigs, types of marine vessels, pipelines, terminals, sub-sea completions, activity basis, other high hazards:<br/>- +/- 150 fixed offshore installations<br/>- +/- 600 onshore mining locations<br/>- +/- 8 MODUs, 5 land rigs<br/>- Offshore 2500 km of high pressure (75 bar) pipelines and 1500 km of onshore pipelines<br/>- 2 Offshore wind farms<br/>- 124,000 km low pressure (<16 bar) gas distribution pipelines</td>
             </tr>
             <tr>
               <td valign="top"><strong>Assurance Mechanisms:</strong></td>
-              <td valign="top">Government inspectorate; SSM on behalf of the:<br />
-                Ministry of Economic Affairs for mining;<br />
-                Ministry of Social Affairs &amp; Employment for working conditions;<br />
-                Ministry of Housing Spatial Planning and Environment for environmental <br />
-                - 3rd party reviews (design, fabrication, and installation) are required for all offshore mining installations and <br />
-                pipelines.<br />
-                - Review by workforce: governed by Works Council legislation, social security regulations, working times <br />
-                law and the Labour Act North Sea.<br /></td>
+              <td valign="top">Government inspectorate SSM on behalf of the:<br/>- Ministry of Economic Affairs for mining;<br/>- Ministry of Social Affairs & Employment for working conditions;<br/>- Ministry of Infrastructure and the Environment for environmental Third party reviews (design, fabrication, and installation) are required for all offshore mining installations and pipelines.<br/>- Review by workforce: governed by Works Council legislation, social security regulations and working times law.
+</td>
             </tr>
             <tr>
               <td valign="top"><strong>Financial Basis:</strong></td>
-              <td valign="top">SSM  budget is fully funded by the Ministry of Economic Affairs, approved on an annual basis, no cost recovery through charges.</td>
+              <td valign="top">From 2016 onwards the SSM budget is mainly funded by the Ministry of Economic Affairs, approved on an annual basis, and the rest (approx. 30%) is recovered through charges for SSM supervisory activities.</td>
             </tr>
 
                 <tr>
               <td valign="top"><strong>Environmental Regulation Responsibilities:</strong></td>
-              <td valign="top">Environmental issues related to on- and offshore mining activities are dealt with by State Supervision of Mines on behalf of the Ministry of Housing Spatial Planning and Environment.</td>
+              <td valign="top">Environmental issues related to on- and offshore mining activities are dealt with by State Supervision of Mines on behalf of the Ministry of Infrastructure and the  Environment.</td>
             </tr>
 
                 <tr>
               <td valign="top"><strong>Oil Spill Response:</strong></td>
-              <td valign="top">Oil spill response related issues are coordinated by  RWS-Noordzee  an agency of the Ministry of Transport and Water Management in liaison with the Dutch Coastguard. The coordination of an oil spill is embedded in the 'Rampenplan voor de Noordzee' (Disaster Plan North Sea). Every operator must submit an 'Oil spill contingency plan'. The offshore operators active on the Dutch Continental Shelf are member of the  Operators Co-operative Emergency Services (OCES) and member of the UK based Offshore Spill Response (OSR). In case of a serious incident scenario in which an offshore mining installation is involved, SSM will be in accordance with the Disaster Plan North Sea, take part in the Inter Departmental Policy Team.
-</td>
+              <td valign="top">The primary responsibility for Oil Spill Response coordination lies with the Operator. Every operator must submit an 'Oil spill contingency plan'.  If required, 'RWS-Zee en Delta', an agency of the Ministry of Infrastructure and the Environment, will take over the coordination in liaison with the Dutch Coastguard and SSM. The coordination of an oil spill is embedded in the 'Incidentbestrijdingsplan Noordzee' (Incident Response Plan North Sea). In case of a serious incident scenario in which an offshore mining installation is involved, SSM will be in accordance with the Incident Response Plan North Sea, take part in the Inter Departmental Policy Team.</td>
             </tr>
 
                 <tr>
               <td valign="top"><strong>Transparency:</strong></td>
-              <td valign="top">Through the SSM website <a href="http://www.sodM.nl/">www.sodM.nl</a>; annual reports, newsletters, presentations, safety bulletins, news updates and presentations are published. In the framework of the Freedom of information Act public requests are also published. In the light of the Deep Water Horizon disaster the SSM follow-up initiatives /measures are available on the webpage.</td>
+              <td valign="top">Through the SSM website <a href="http://www.sodM.nl/">www.sodM.nl</a>; annual reports, newsletters, presentations, safety bulletins, news updates and presentations are published.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Profile Author:</strong></td>
-              <td valign="top">Jan de Jong<br />
+              <td valign="top">Harry van der Meijden<br />
                 Inspector General of Mines<br />
                 State Supervision of Mines</td>
             </tr>
             <tr>
               <td valign="top"><strong>Profile Date:</strong></td>
-              <td valign="top">17 August 2010</td>
+              <td valign="top">August 2015</td>
             </tr>
           </table>
           <p>&nbsp;</p>
