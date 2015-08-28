@@ -18,7 +18,7 @@ marquee a {
   </tr>
 </table>
 <p width="750">
-<marquee onmouseout="this.start()" onmouseover="this.stop()" scrollamount="10">
+<marquee onmouseout="this.start()" onmouseover="this.stop()" scrollamount="10" width="750">
 	<a href="http://www.hse.gov.uk/offshore/">
 		<img alt="" width="100px" src="/images/HSE-logo_150.gif" />
 	</a>
