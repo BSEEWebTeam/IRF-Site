@@ -1,10 +1,9 @@
-<div align="center">
 <table width="750" border="0" align="center" cellpadding="0" cellspacing="0" summary="">
   <tr>
     <td><h1 class="screen-reader-only">International Regulators' Forum Global Offshore Safety</h1><a href="/"><img src="/images/IRF.gif" width="750" height="170" border="0" alt="home"/></a></td>
   </tr>
   <tr>
-    <td><marquee onmouseout="this.start()" onmouseover="this.stop()" scrollamount="10">
+    <td width="750"><marquee onmouseout="this.start()" onmouseover="this.stop()" scrollamount="10">
 	<a href="http://www.hse.gov.uk/offshore/">
 		<img alt="" width="100px" src="/images/HSE-logo_150.gif" />
 	</a>
@@ -44,4 +43,3 @@
 </marquee></td>
   </tr>
 </table>
-</div>
