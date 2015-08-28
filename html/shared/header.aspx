@@ -1,6 +1,6 @@
 <style type="text/css">
 marquee {
-     width:100%;
+     width:750;
      padding:5px;
      direction:left;
      border-collapse:collapse;
