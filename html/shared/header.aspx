@@ -1,3 +1,17 @@
+<style type="text/css">
+marquee {
+     width:100%;
+     padding:5px;
+     direction:left;
+     border-collapse:collapse;
+     border:3px solid gray;
+     border-radius:5px;
+     vertical-align:middle;
+}
+marquee a {
+     margin-right:20px;
+}
+</style>
 <table width="750" border="0" align="center" cellpadding="0" cellspacing="0" summary="">
   <tr>
     <td><h1 class="screen-reader-only">International Regulators' Forum Global Offshore Safety</h1><a href="/"><img src="/images/IRF.gif" width="750" height="170" border="0" alt="home"/></a></td>
