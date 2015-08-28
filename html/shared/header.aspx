@@ -17,7 +17,7 @@ marquee a {
     <td><h1 class="screen-reader-only">International Regulators' Forum Global Offshore Safety</h1><a href="/"><img src="/images/IRF.gif" width="750" height="170" border="0" alt="home"/></a></td>
   </tr>
 </table>
-<p width="750">
+<p width="750" align="center">
 <marquee onmouseout="this.start()" onmouseover="this.stop()" scrollamount="10" width="750">
 	<a href="http://www.hse.gov.uk/offshore/">
 		<img alt="" width="100px" src="/images/HSE-logo_150.gif" />
