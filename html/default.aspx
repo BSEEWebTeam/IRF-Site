@@ -32,8 +32,6 @@
 		  </td><td width="34%" style="padding: 10px 20px 0 6px;"><h1><strong>Current Issues</strong></h1>
 
 <p><strong>The Bureau of Safety and Environmental Enforcement (BSEE) is honoured to host the 6th International Regulators' Forum Offshore Safety Conference in Washington, D.C. on 19-20 October 2015.</strong></p>
-<p><strong>The conference will be held at The Liaison Capitol Hill.</strong></p>
-<p><strong><a href="http://bsee.gov/International-and-Interagency-Collaboration/International/IRF/2015-Offshore-Safety-Conference/" style="color:red">Registration and Latest Information</a></strong></p>
 
 		  </td>
       </tr>
