@@ -19,6 +19,10 @@
       <table width="100%" border="0" cellpadding="4" cellspacing="1" summary="">
         <tr>
           <td width="22"><br /></td>
+          <td><a class="menu" href="/conferences/2015conference/">2015 Conference</a></td>
+        </tr>
+        <tr>
+          <td width="22"><br /></td>
           <td><a class="menu" href="/conferences/2013conference/">2013 Conference</a></td>
         </tr>
         <tr>

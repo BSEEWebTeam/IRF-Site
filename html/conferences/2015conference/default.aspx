@@ -24,33 +24,19 @@
         <td valign="top"><!--#include virtual="/shared/newsdropdown.aspx" -->
           <br />
             
-          <h2>conferences</h2>
-          <p>The International Regulators' Forum periodically hosts an Offshore Safety Conference.</p>
+          <h2>2015 Conference</h2>
 
-          <p>Regulatory officials from all nations with ongoing or proposed offshore oil and gas activity are invited to attend. The purpose is to share experiences and to compare differences in regulatory approach and safety performance.</p>
+          <p>Download:<br />
+          <a href="/conferences/2015conference/IRF Conference 2015 Agenda.pdf">Agenda</a><br />
+          <a href="/conferences/2015conference/2015 IRF AGM Communique.pdf">IRF Communique</a></p>
 
-          <table border="0" cellpadding="4" cellspacing="1" summary="">
-            <tr>
-              <td><a href="2015conference/">2015 Conference</a></td>
-            </tr>
-            <tr>
-              <td><a href="2013conference/">2013 Conference</a></td>
-            </tr>
-            <tr>
-              <td><a href="2011Summit/">2011 Summit Conference</a></td>
-            </tr>
-            <tr>
-              <td><a href="2010conference/">2010 Conference</a></td>
-            </tr>
-            <tr>
-              <td><a href="2007conference/">2007 Conference</a></td>
-            </tr>
-            <tr>
-              <td><a href="2005conference/">2005 Conference</a></td>
-            </tr>
-          </table>
-          </td>
-        </tr>
+<p></p>
+<p>The 2015 International Regulators’ Forum (IRF) Offshore Safety Conference “From Desktop to Deckplate: A Holistic Approach to Risk Management” was held in Washington, D.C. on 19 and 20 October.</p>
+<p>More than 200 participants from 21 countries attended the conference, which focused on moving safety in the offshore petroleum industry from concepts discussed in the boardroom to effective implementation out in the field.</p>
+<p>The conference provided a forum for regulators, industry, academia, federal organizations and other practitioners to openly discuss best practices and industry trends.</p>
+
+          </p></td>
+      </tr>
     </table></td>
   </tr>
 </table>
