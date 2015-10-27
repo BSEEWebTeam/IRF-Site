@@ -32,9 +32,9 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <h2>Annual Meetings</h2>
           <p>The IRF hold annual plenary  meetings.&nbsp; Agenda items at meetings  include country updates and technical sessions, and cover health and safety  issues likely to be of common interest, with technical sessions addressing  matters such as lessons from incidents, research findings, and regulatory  initiatives.</p>
           <p>Annual meetings also include a review of joint activity  during the previous year, and consideration of any shared work to be carried  forward in the coming year, with agreed commitment and responsibility for the  topic lead.</p>
-		  <p>The next IRF Annual General Meeting will be held in Washington D.C. on Oct. 21-23, 2015, and will be facilitated by the Bureau of Safety and Environmental Enforcement.</p>
-		  
-				<table border="0" cellpadding="4" cellspacing="1" summary="">
+		  		<table border="0" cellpadding="4" cellspacing="1" summary="">
+				<tr><td><a href="2015 IRF AGM Communique.pdf">2015 IRF AGM Communique</a></td></tr>
+				<tr><td><a href="IRF AGM 2014 Minutes.pdf">IRF Annual Meeting Minutes 2014</a></td></tr>
 				<tr><td><a href="IRF 2013 Annual Meeting Minutes.pdf">IRF Annual Meeting Minutes 2013</a></td></tr>
 				<tr><td><a href="IRF 2012 Annual Meeting Notes.pdf">IRF Annual Meeting Minutes 2012</a></td></tr>
 				<tr><td><a href="IRF 2011 Annual Meeting Notes.pdf">IRF Annual Meeting Notes 2011</a></td></tr>
