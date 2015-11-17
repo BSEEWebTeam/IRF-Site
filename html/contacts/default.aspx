@@ -41,7 +41,7 @@
               <td><p>Canada-Newfoundland and Labrador Offshore Petroleum Board, (C-NLOPB)<br />
                      <a href="mailto:dchicoyne@cnlopb.ca">dchicoyne@cnlopb.ca</a></p>
                 <p>Canada-Nova Scotia Offshore Petroleum Board, (CNSOPB)<br />
-                <a href="mailto:klandra@cnsopb.ns.ca">klandra@cnsopb.ns.ca</a></p>
+                <a href="mailto:rnormore@cnsopb.ns.ca">rnormore@cnsopb.ns.ca</a></p>
 				<p>National Energy Board (NEB)<br />
                 <a href="mailto:keith.landra@neb-one.gc.ca">keith.landra@neb-one.gc.ca</a></p>
                 </td>
