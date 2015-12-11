@@ -43,4 +43,4 @@
     <a href="/country/performance/">Country Performance</a>
   </li>
 </ul>
-<img src="/images/youtube_logo.jpg" width="135" height="64" border="0" alt="YouTube Channel" />
+<a href="https://www.youtube.com/channel/UCuadmEBVKu9S71-bCC9HUgw"><img src="/images/youtube_logo.jpg" width="135" height="64" border="0" alt="YouTube Channel" /></a>
