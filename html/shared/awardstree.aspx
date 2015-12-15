@@ -75,4 +75,4 @@
       <a href="/country/performance/">Country Performance</a>
     </li>
 </ul>
-<a href="https://www.youtube.com/channel/UCuadmEBVKu9S71-bCC9HUgw"><img src="/images/youtube.jpg" width="45" height="45" border="0" alt="YouTube Channel" /></a>&nbsp;<a href="https://www.flickr.com/photos/irfoffshoresafety/"><img src="/images/flickr.jpg" width="45" height="45" border="0" /></a>
+<div align="center"><a href="https://www.youtube.com/channel/UCuadmEBVKu9S71-bCC9HUgw"><img src="/images/youtube.jpg" width="45" height="45" border="0" alt="YouTube Channel" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/irfoffshoresafety/"><img src="/images/flickr.jpg" width="45" height="45" border="0" /></a></div>
