@@ -31,7 +31,7 @@
 
 		  </td><td width="34%" style="padding: 10px 20px 0 6px;"><h1><strong>Current Issues</strong></h1>
 
-			<p><strong>The communique from the IRF 2015 Offshore Safety Conference and AGM is now <a href="/conferences/2015conference/">available</a>.</strong></p>
+			<p><strong>For a complete look back at the IRF 2015 Offshore Safety Conference and AGM, <a href="/conferences/2015conference/">click here</a>.</strong></p>
 
 		  </td>
       </tr>

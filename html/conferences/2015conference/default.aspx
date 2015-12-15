@@ -32,7 +32,9 @@
 <p>Downloads:<br/><a href="/conferences/2015conference/2015 IRF AGM Communique.pdf">IRF Communique</a>
 <br/><a href="/conferences/2015conference/FINAL IRF Conference 2015 Agenda for Registration packet confirmed speakers 11.03.15.pdf">Agenda</a>
 <br/><a href="/conferences/2015conference/Conference Summary.pdf">Summary</a>
-<br/><a href="/conferences/2015conference/FINAL Speaker Bios for Registration Packet 11-3-2015.pdf">Speaker Bios</a></p>
+<br/><a href="/conferences/2015conference/FINAL Speaker Bios for Registration Packet 11-3-2015.pdf">Speaker Bios</a>
+<br/><a href="https://www.youtube.com/channel/UCuadmEBVKu9S71-bCC9HUgw">Session Videos</a>
+<br/><a href="https://www.flickr.com/photos/irfoffshoresafety/">Photos</a></p>
          </td>
       </tr>
     </table></td>
