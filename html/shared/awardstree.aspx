@@ -75,5 +75,5 @@
       <a href="/country/performance/">Country Performance</a>
     </li>
 </ul>
-Social Media:<br/>
+<strong>IRF Media</strong><br/>
 <a href="https://www.youtube.com/channel/UCuadmEBVKu9S71-bCC9HUgw"><img src="/images/youtube.jpg" width="45" height="45" border="0" alt="YouTube Channel" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/irfoffshoresafety/"><img src="/images/flickr.jpg" width="45" height="45" border="0" alt="Flickr Channel" /></a>
