@@ -34,39 +34,39 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <h2>Member Countries - Safety Alerts</h2>
           <table border="0" cellpadding="2" cellspacing="0" summary="Member Country Profiles">
             <tr>
-              <td><a href="#" onclick="return false;" style="color:333333">Australia Safety Alerts</a></td>
+              <td><a href="#" onclick="return false;" style="color:#848484">Australia Safety Alerts</a></td>
             </tr>
 			<tr><td>&nbsp;</td></tr>
             <tr>
-              <td><a href="#" onclick="return false;" style="color:333333">Brazil Safety Alerts</a></td>
+              <td><a href="#" onclick="return false;" style="color:#848484">Brazil Safety Alerts</a></td>
             </tr>
 			<tr><td>&nbsp;</td></tr>
             <tr>
-              <td><a href="#" onclick="return false;" style="color:333333">Canada Safety Alerts</a></td>
+              <td><a href="#" onclick="return false;" style="color:#848484">Canada Safety Alerts</a></td>
             </tr>
 			<tr><td>&nbsp;</td></tr>
             <tr>
-              <td><a href="#" onclick="return false;" style="color:333333">Denmark Safety Alerts</a></td>
+              <td><a href="#" onclick="return false;" style="color:#848484">Denmark Safety Alerts</a></td>
             </tr>
 			<tr><td>&nbsp;</td></tr>
             <tr>
-              <td><a href="#" onclick="return false;" style="color:333333">Mexico Safety Alerts</a></td>
+              <td><a href="#" onclick="return false;" style="color:#848484">Mexico Safety Alerts</a></td>
             </tr>
 			<tr><td>&nbsp;</td></tr>
             <tr>
-              <td><a href="#" onclick="return false;" style="color:333333">Netherlands Safety Alerts</a></td>
+              <td><a href="#" onclick="return false;" style="color:#848484">Netherlands Safety Alerts</a></td>
             </tr>
 			<tr><td>&nbsp;</td></tr>
             <tr>
-              <td><a href="#" onclick="return false;" style="color:333333">New Zealand Safety Alerts</a></td>
+              <td><a href="#" onclick="return false;" style="color:#848484">New Zealand Safety Alerts</a></td>
             </tr>
 			<tr><td>&nbsp;</td></tr>
             <tr>
-              <td><a href="#" onclick="return false;" style="color:333333">Norway Safety Alerts</a></td>
+              <td><a href="#" onclick="return false;" style="color:#848484">Norway Safety Alerts</a></td>
             </tr>
 			<tr><td>&nbsp;</td></tr>
             <tr>
-              <td><a href="#" onclick="return false;" style="color:333333">United Kingdom Safety Alerts</a></td>
+              <td><a href="#" onclick="return false;" style="color:#848484">United Kingdom Safety Alerts</a></td>
             </tr>
 			<tr><td>&nbsp;</td></tr>
             <tr>
