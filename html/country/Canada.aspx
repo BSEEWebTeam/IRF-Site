@@ -66,7 +66,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			</td>
 			<tr>
 			<td valign="top"><strong>Nature of Duties Imposed:</strong></td>
-			<td valign="top"><p>A blend of goal-oriented and prescriptive regulations. The Chief Safety Officer and Chief Conservation Officer may however, subject to certain criteria, authorize the use of equipment, methods, measures, or standards in lieu of any required by regulation</p>
+			<td valign="top"><p>A blend of goal-oriented and prescriptive regulations. The Chief Safety Officer and Chief Conservation Officer may however, subject to certain criteria, authorize the use of equipment, methods, measures, or standards in lieu of any required by regulation.</p>
 			</td>
 			</tr>
 			<tr>
@@ -94,15 +94,13 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			</tr>
 			<tr>
 			<td valign="top"><strong>Financial Basis:</strong></td>
-			<td valign="top"><p>Initially the CNSOPB budget is jointly funded by the Government of Canada and the Province of Nova Scotia. Likewise, the C-NLOPB budget is jointly funded by the Government of Canada and the Province of Newfoundland and Labrador. However, the governments have established a fee based cost recovery program to partially offset funding requirements.</p>
-			<p>The NEB budget is assigned by the federal government.</p>
-			</p>
+			<td valign="top"><p>IInitially the CNSOPB budget is jointly funded by the Government of Canada and the Province of Nova Scotia. Likewise, the C-NLOPB budget is jointly funded by the Government of Canada and the Province of Newfoundland and Labrador. However, the governments have established a formula fees schedule for the offshore boards to recover the costs associated with regulating offshore oil and gas activity from applicants and operators on behalf of both governments. The NEB budget is assigned by the federal government.</p>
 			</td>
 			</tr>
 			<tr>
 			<td valign="top"><strong>Environmental Regulation Responsibilities:</strong></td>
 			<td valign="top"><p>The Boards are responsible for ensuring the protection of the environment during all phases of offshore petroleum activities.</p>
-			<p>The Boards undertake an environmental assessment of proposed projects to meet the environmental requirements set out in their respective enabling legislation. For major projects, such as the drilling, testing, and abandonment of an exploratory well in an area set out in one or more exploration licences or construction, installation, operation, decommissioning, and abandonment of an offshore floating or production platform used for the production of oil and gas, an environmental assessment is required pursuant to the Canadian Environmental Assessment Act, 2012. </p>
+			<p>The Boards undertake an environmental assessment of proposed projects to meet the environmental requirements set out in their respective enabling legislation. For major projects, such as the drilling, testing, and abandonment of an exploratory well in an area set out in one or more exploration licences or construction, installation, operation, decommissioning, and abandonment of an offshore floating or production platform used for the production of oil and gas, an environmental assessment is required pursuant to the Canadian Environmental Assessment Act, 2012.</p>
 			</td>
 			</tr>
 			<tr>
@@ -133,7 +131,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Profile Date:</strong></td>
-              <td valign="top">August 2015</td>
+              <td valign="top">October 12, 2016</td>
             </tr>
           </table>
           <p>&nbsp;</p>

@@ -37,14 +37,13 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Organisation:</strong></td>
-              <td valign="top">State Supervision of Mines</td>
+              <td valign="top">State Supervision of Mines (SSM)</td>
             </tr>
             <tr>
               <td valign="top"><strong>Regime Scope:</strong></td>
-              <td valign="top">Exploration, production, transport and storage of natural resources onshore and offshore.
-This scope further includes geothermal energy and offshore windmills.<br/>
-Supervision is focused on safety, health, environment and production efficiency.
-</td>
+              <td valign="top">Exploration, production, transport and storage of natural resources onshore and offshore.<br/><br/>
+			  This scope further includes geothermal energy, salt extraction  and offshore windmills.<br/><br/>
+			  Supervision is focused on safety, health, environment and production efficiency.</td>
             </tr>
             <tr>
               <td valign="top"><strong>Administering Agency /Arrangements:</strong></td>
@@ -52,21 +51,25 @@ Supervision is focused on safety, health, environment and production efficiency.
             </tr>
             <tr>
               <td valign="top"><strong>Legislation Type:</strong></td>
-              <td valign="top">All National;  the following laws (including decrees and regulations): <br />
+              <td valign="top">All National laws (including decrees and regulations): <br />
                 Mining<br />
-                Working Conditions <br />
+                Working Conditions<br />
                 Working Hours<br />
                 Environmental<br />
-                Goods <br />
+                Goods<br />
                 Water Supply<br />
                 Metrology<br />
-                Gas <br />
-                Nuclear <br />
-				(the EU offshore Safety directive 2013/30/EU is transposed in the relevant National legislation)</td>
+                Gas<br />
+                Nuclear<br />
+				All applicable EU Regulations (the EU offshore Safety directive 2013/30/EU is transposed in the relevant National legislation)</td>
             </tr>
             <tr>
               <td valign="top"><strong>Extent Of Government Approval:</strong></td>
-              <td valign="top">- Permits required for geophysical operations<br/>- Permits for exploration and exploitation<br/>- approval for Reports on Major Hazards, development plans, drilling activities, new pipelines, decommissioning plans<br/>- Permits for the use of production chemicals and for certain drilling activities<br/>- Environmental permit for the use of an installation</td>
+              <td valign="top">- Permits required for geophysical operations<br/>
+			  - Permits for exploration and exploitation<br/>
+			  - approval for Reports on Major Hazards, development plans, drilling activities, new pipelines, decommissioning plans<br/>
+			  - Permits for the use of production chemicals and for certain drilling activities<br/>
+			  - Environmental permit for the use of an installation</td>
             </tr>
             <tr>
               <td valign="top"><strong>Nature Of Duties Imposed:</strong></td>
@@ -74,11 +77,21 @@ Supervision is focused on safety, health, environment and production efficiency.
             </tr>
             <tr>
               <td valign="top"><strong>Physical Objects In The Regime:</strong></td>
-              <td valign="top">Platforms, drilling rigs, types of marine vessels, pipelines, terminals, sub-sea completions, activity basis, other high hazards:<br/>- +/- 150 fixed offshore installations<br/>- +/- 600 onshore mining locations<br/>- +/- 8 MODUs, 5 land rigs<br/>- Offshore 2500 km of high pressure (75 bar) pipelines and 1500 km of onshore pipelines<br/>- 2 Offshore wind farms<br/>- 124,000 km low pressure (<16 bar) gas distribution pipelines</td>
+              <td valign="top">Platforms, drilling rigs, types of marine vessels, pipelines, terminals, sub-sea completions, activity basis, other high hazards:<br/>
+			  - +/- 150 fixed offshore installations<br/>
+			  - +/- 600 onshore mining locations<br/>
+			  - +/- 2 MODUs, 4 land rigs<br/>
+			  - Offshore 2500 km of high pressure (75 bar) pipelines and 1500 km of onshore pipelines<br/>
+			  - 3 Offshore wind farms<br/>
+			  - 124,000 km low pressure (<16 bar) gas distribution pipelines</td>
             </tr>
             <tr>
               <td valign="top"><strong>Assurance Mechanisms:</strong></td>
-              <td valign="top">Government inspectorate SSM on behalf of the:<br/>- Ministry of Economic Affairs for mining;<br/>- Ministry of Social Affairs & Employment for working conditions;<br/>- Ministry of Infrastructure and the Environment for environmental Third party reviews (design, fabrication, and installation) are required for all offshore mining installations and pipelines.<br/>- Review by workforce: governed by Works Council legislation, social security regulations and working times law.
+              <td valign="top">Government inspectorate SSM on behalf of the:<br/>
+			  - Ministry of Economic Affairs for mining;<br/>
+			  - Ministry of Social Affairs & Employment for working conditions;<br/>
+			  - Ministry of Infrastructure and the Environment for environmental Third party reviews (design, fabrication, and installation) are required for all offshore mining installations and pipelines.<br/>
+			  - Review by workforce: governed by Works Council legislation, social security regulations and working times law.
 </td>
             </tr>
             <tr>
@@ -88,12 +101,12 @@ Supervision is focused on safety, health, environment and production efficiency.
 
                 <tr>
               <td valign="top"><strong>Environmental Regulation Responsibilities:</strong></td>
-              <td valign="top">Environmental issues related to on- and offshore mining activities are dealt with by State Supervision of Mines on behalf of the Ministry of Infrastructure and the  Environment.</td>
+              <td valign="top">Environmental issues related to on- and offshore mining activities are dealt with by State Supervision of Mines on behalf of the Ministry of Infrastructure and the Environment.</td>
             </tr>
 
                 <tr>
               <td valign="top"><strong>Oil Spill Response:</strong></td>
-              <td valign="top">The primary responsibility for Oil Spill Response coordination lies with the Operator. Every operator must submit an 'Oil spill contingency plan'.  If required, 'RWS-Zee en Delta', an agency of the Ministry of Infrastructure and the Environment, will take over the coordination in liaison with the Dutch Coastguard and SSM. The coordination of an oil spill is embedded in the 'Incidentbestrijdingsplan Noordzee' (Incident Response Plan North Sea). In case of a serious incident scenario in which an offshore mining installation is involved, SSM will be in accordance with the Incident Response Plan North Sea, take part in the Inter Departmental Policy Team.</td>
+              <td valign="top">The primary responsibility for Oil Spill Response coordination lies with the Operator. Every operator must submit an 'Oil spill contingency plan'. If required, 'RWS-Zee en Delta', an agency of the Ministry of Infrastructure and the Environment, will take over the coordination in liaison with the Dutch Coastguard and SSM. The coordination of an oil spill is embedded in the 'Incidentbestrijdingsplan Noordzee' (Incident Response Plan North Sea). In case of a serious incident scenario in which an offshore mining installation is involved, SSM will be in accordance with the Incident Response Plan North Sea, take part in the Inter Departmental Policy Team.</td>
             </tr>
 
                 <tr>
@@ -108,7 +121,7 @@ Supervision is focused on safety, health, environment and production efficiency.
             </tr>
             <tr>
               <td valign="top"><strong>Profile Date:</strong></td>
-              <td valign="top">August 2015</td>
+              <td valign="top">October 12, 2016</td>
             </tr>
           </table>
           <p>&nbsp;</p>

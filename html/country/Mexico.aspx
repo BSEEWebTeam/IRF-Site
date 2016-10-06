@@ -39,7 +39,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Organisation:</strong></td>
-              <td valign="top">National Agency for Safety, Energy and Environment of Mexico (ASEA)<br/>Agencia Nacional de Energía, Seguridad y Ambiente. ASEA</td>
+              <td valign="top">National Agency for Safety, Energy and Environment of Mexico (ASEA)<br/><br/>Agencia Nacional de Energía, Seguridad y Ambiente (ASEA)</td>
             </tr>
             <tr>
               <td valign="top"><strong>Country Representatives:</strong></td>
@@ -51,11 +51,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Regime Scope:</strong></td>
-              <td valign="top"><p>ASEA is responsible for regulating and supervising both industrial and operational safety as well as environmental protection on facilities and activities related to the hydrocarbons sector.</p></td>
+              <td valign="top"><p>ASEA is responsible for regulating and supervising in terms of industrial and operational safety and environmental protection, the facilities and activities related to the hydrocarbons sector.</p></td>
             </tr>
             <tr>
               <td valign="top"><strong>Administering Agency /Arrangements:</strong></td>
-              <td valign="top"><p>ASEA is an autonomous National Agency within SEMARNAT (Federal Secretariat for Environment and Natural Resources) established by constitutional reform in 2013 to regulate and inspect the hydrocarbon sector on everything related to Industrial Safety and Environmental Protection.</p></td>
+              <td valign="top"><p>ASEA is a decentralized agency from the Ministry of Environment (SEMARNAT) is created by constitutional reform in 2013 to regulate and supervise the hydrocarbon’s sector on everything related to Industrial Safety and Environmental Protection.</p></td>
             </tr>
             <tr>
               <td valign="top"><strong>Legislation Type:</strong></td>
@@ -65,23 +65,29 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 				<td valign="top"><strong>Extent Of Government Approval:</strong></td>
 				<td valign="top"><p>Issuance, suspension and/or cancellation of permits, authorizations and licenses for environmental impacts and risks affecting the hydrocarbons industry.<br/><br/>Authorizes industrial management systems.</p>
 				</td>
+			</tr>
+			<tr>
+				<td valign="top"><strong>Links to Relevant Legislation:</strong></td>
+				<td valign="top"><p>Please see information at: <a href="http://www.gob.mx/asea/acciones-y-programas/leyes-y-normas-del-sector?idiom=es">http://www.gob.mx/asea/acciones-y-programas/leyes-y-normas-del-sector?idiom=es</a></p>
+				</td>
+			</tr>
 			<tr>
 				<td valign="top"><strong>Nature of Duties Imposed:</strong></td>
-				<td valign="top"><p>Regulation is oriented to guarantee an individual’s safety and environmental integrity with legal, procedural and cost-effectiveness certainty in the hydrocarbons sector.</p>
+				<td valign="top"><p>Regulation is oriented to guarantee an individual's safety and environmental integrity with legal, procedural and cost-effectiveness certainty in the hydrocarbons sector.</p>
 				</td>
 			</tr>
 			<tr>
 				<td valign="top"><strong>Physical Objects in the Regime:</strong></td>
-				<td valign="top"><p>On shore/Off shore<br/>Downstream/Mid Stream and Up Stream<br/>Including pipelines and service stations </p>
+				<td valign="top"><p>On shore/Off shore<br/>Up Stream, MidStream and Downstream<br/>Including pipelines, refineries and service stations.</p>
 				</td>
 			</tr>
 			<tr>
 				<td valign="top"><strong>Assurance Mechanisms:</strong></td>
-				<td valign="top"><p>ASEA supervises, monitor and inspects for compliance of established regulation and legal standards.</p></td>
+				<td valign="top"><p>ASEA supervises, monitors and inspects for compliance of established regulation and legal standards.</p></td>
 			</tr>
 			<tr>
 				<td valign="top"><strong>Financial Basis:</strong></td>
-				<td valign="top"><p>ASEA budget is approved by the Mexican congress as parte of the yearly Federal Budget.<br/>Fees and Fines.</p>
+				<td valign="top"><p>ASEA budget is approved by the Mexican Congress as parte of the yearly Federal Budget.<br/>Fees and Fines. ASEA's Trust.</p>
 				</td>
 			</tr>
 			<tr>
@@ -91,8 +97,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			</tr>
 			<tr>
 				<td valign="top"><strong>Oil Spill Response:</strong></td>
-				<td valign="top"><p>Industrial management systems to be previously authorized by ASEA are required to provide emergency response plans including oil spill response plans when applicable.</p>
-				<p>Inter-government Agency Response.</p>
+				<td valign="top"><p>The Agency has to define technical elements that shall be included in protocols for emergency response, critical risk situations, and events that can cause harm to people, facilities and the environment. It shall participate in such protocols under coordination of the competent authority (Mexican Navy, Secretaría de Marina).<br/><br/>ASEA requires that activities in the hydrocarbon's sector are performed under Safety and Environmental Management Systems (SEMS). This instrument is authorized by ASEA. Operators must reflect in that document that they have emergency response plans and oil spill response plans when applicable.<br/><br/>Inter-government Agency Response.</p>
 				</td>
 			</tr>
 			<tr>
@@ -102,15 +107,16 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			</tr>
 			<tr>
 				<td valign="top"><strong>Profile Author:</strong></td>
-				<td valign="top"><p>Oscar Roldán Flores<br />
-					Director General for Planning<br />
-					National Hydrocarbons Commission<br />
+				<td valign="top"><p>Laura Lira Urdiana<br />
+					General Director for International Cooperation <br />
+					<a href="mailto:laura.lira@asea.gob.mx">laura.lira@asea.gob.mx</a> tel. +52 (55) 9126-0100 ext. 13451<br />
+					<a href="http://www.gob.mx/asea">http://www.gob.mx/asea</a>
 					</p>
 				</td>
             </tr>
             <tr>
               <td valign="top"><strong>Profile Date:</strong></td>
-              <td valign="top">13 January 2015</td>
+              <td valign="top">October 12, 2016</td>
             </tr>
           </table>
           <p>&nbsp;</p>
@@ -119,7 +125,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     </table></td>
 		<td valign="top"><a href="http://www.cnh.gob.mx/"><img src="/images/logo_ASEA_Mexico.png" border="0"></a>
 			<div style="margin-left: 4px;"><br />
-			<a href="http://www.asea.gob.mx/">www.asea.gob.mx</a><br />
+			<a href="http://www.gob.mx/asea">http://www.gob.mx/asea</a><br />
 			</div>
 		</td><!-- right column -->
   </tr>

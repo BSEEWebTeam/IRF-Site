@@ -93,7 +93,7 @@ Both the NCA and the <a href="http://www.nofo.no/">Norwegian Clean Seas Associat
             </tr>
             <tr>
               <td valign="top"><strong>Profile Date:</strong></td>
-              <td valign="top">13 August 2015</td>
+              <td valign="top">October 12, 2016</td>
             </tr>
           </table>
           <p>&nbsp;</p>

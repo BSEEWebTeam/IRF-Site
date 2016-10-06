@@ -39,17 +39,16 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Organisation:</strong></td>
-              <td valign="top">Danish Working Environment Authority (WEA)<td>
+              <td valign="top">Danish Working Environment Authority (DWEA)<td>
             </tr>
             <tr>
               <td valign="top"><strong>Regime Scope:</strong></td>
               <td valign="top"><p>The Danish Working Environment Authority is an agency under the Ministry of Employment. The Danish Working Environment Authority is the authority which contributes to the creation of safe and sound working conditions at Danish workplaces. This is done by
-Carrying out inspections of companies 
-Drawing up rules on health and safety at work 
-Providingnish Working Environment Authority is an agency under the Ministry of Employment. The Danish Working Environment Authority is the authority which contributes to the creation of safe and sound working conditions at Danish workplaces. This is done by
-<ul><li>Carrying out inspections of companies </li>
-<li>Drawing up rules on health and safety at work </li>
-<li>Providing information on health and safety at work. </li></ul>
+			  <ul>
+				<li>Carrying out inspections of companies </li>
+				<li>Drawing up rules on health and safety at work </li>
+				<li>Providing information on health and safety at work. </li>
+			  </ul>
             </tr>
             <tr>
               <td valign="top"><strong>Administering Agency /Arrangements:</strong></td>
@@ -58,57 +57,54 @@ Providingnish Working Environment Authority is an agency under the Ministry of E
             <tr>
               <td valign="top"><strong>Legislation Type:</strong></td>
               <td valign="top"><p>Acts and Regulations on health and safety on offshore installations and exploration and exploitation of the subsoil.</p>
-						</td>
-					</tr>
-					<tr>
-						<td valign="top"><strong>Extent Of Government Approval:</strong></td>
-						<td valign="top"><p>WEA requires duty holders to apply for permit to commence and carry out various petroleum industrial activities/operations specified by requirements of the acts and regulations.
-</p>
-						</td>
-					<tr>
-						<td valign="top"><strong>Nature of Duties Imposed:</strong></td>
-						<td valign="top"><p>Primarily goal setting legislation which sets required standards and objectives to be achieved by duty holders for the continued safe operation of their installations, and to ensure a healthy and safe working environment. The requirements are extensively substantiated by referencing recognized national and international standards. Verification of compliance is to a certain extent made by independent competent bodies.</p>
-						</td>
-					</tr>
-					<tr>
-						<td valign="top"><strong>Physical Objects in the Regime:</strong></td>
-						<td valign="top"><p>Offshore installations and onshore facilities. These include exploration and production installations, including FPSO's, MODU's, flotels, subsea arrangements, wells, pipelines and offshore processing plants.</p>
-						</td>
-					</tr>
-					<tr>
-						<td valign="top"><strong>Assurance Mechanisms:</strong></td>
-						<td valign="top"><p>The WEA assures that the industry is adhering to statutory regulations by conducting  inspections, and by - if necessary - employing its delegated regulatory powers.</p>
-						</td>
-					</tr>
-					<tr>
-						<td valign="top"><strong>Financial Basis:</strong></td>
-						<td valign="top"><p>Government general budget allocation. Expenses related to inspections and permitting, such as staff's working hours and travel expenses, are reimbursed by the duty holders in accordance with rates set by the government.</p>
-						</td>
-					</tr>
-					<tr>
-						<td valign="top"><strong>Environmental Regulation Responsibilities:</strong></td>
-						<td valign="top"><p>Although the Danish Working Environment Authority (WEA) is responsible for assessing the integrity and safety of offshore installations in Denmark via the health and safety regulations, the Danish Environmental Protection Agency (DEPA) under the Ministry of  Environment is responsible for developing the environmental regulatory framework for the DKCS. DEPA administer and ensure compliance with that environmental regime in relation to offshore oil and gas exploration and production and decommissioning. This includes the approval of Oil Pollution Emergency Plans.</p>
-						</td>
-					</tr>
-					<tr>
-						<td valign="top"><strong>Oil Spill Response:</strong></td>
-						<td valign="top"><p>The implementation of any counter pollution measures deployed to minimize the pollution incident is the responsibility of the operator and the DEPA and the Ministry of Defence.</p>
-						</td>
-					</tr>
-					<tr>
-						<td valign="top"><strong>Transparency:</strong></td>
-						<td valign="top"><p>The oil and gas part of WEA's website is  the most informative source of information about the regulatory system and activities. Almost everything WEA does as a regulator is duly accounted for here.</p>
-						<p>Some of the postings are also published in English.</p>
-						</td>
-					</tr>
-					<tr>
-							<td valign="top"><strong>Profile Author:</strong></td>
-							<td valign="top"><p>Katrine Krone, Head of the Offshore Safety Unit, WEA</p>
-							</td>
+			  </td>
+			</tr>
+			<tr>
+				<td valign="top"><strong>Extent Of Government Approval:</strong></td>
+				<td valign="top"><p>DWEA requires duty holders to apply for permit to commence and carry out various petroleum industrial activities/operations specified by requirements of the acts and regulations.</p>
+				</td>
+			<tr>
+				<td valign="top"><strong>Nature of Duties Imposed:</strong></td>
+				<td valign="top"><p>Primarily goal setting legislation which sets required standards and objectives to be achieved by duty holders for the continued safe operation of their installations, and to ensure a healthy and safe working environment. The requirements are extensively substantiated by referencing recognized national and international standards. Verification of compliance is to a certain extent made by independent competent bodies.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top"><strong>Physical Objects in the Regime:</strong></td>
+				<td valign="top"><p>Offshore installations and onshore facilities. These include exploration and production installations, including FPSO's, MODU's, flotels, subsea arrangements, wells, pipelines and offshore processing plants.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top"><strong>Assurance Mechanisms:</strong></td>
+				<td valign="top"><p>The DWEA assures that the industry is adhering to statutory regulations by conducting inspections, and by - if necessary - employing its delegated regulatory powers.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top"><strong>Financial Basis:</strong></td>
+				<td valign="top"><p>Government general budget allocation. Expenses related to inspections and permitting, such as staff's working hours and travel expenses, are reimbursed by the duty holders in accordance with rates set by the government.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top"><strong>Environmental Regulation Responsibilities:</strong></td>
+				<td valign="top"><p>Although the Danish Working Environment Authority (DWEA) is responsible for assessing the integrity and safety of offshore installations in Denmark via the health and safety regulations, the Danish Environmental Protection Agency (DEPA) under the Ministry of Environment is responsible for developing the environmental regulatory framework for the DKCS. DEPA administers and ensures compliance with the environmental regime in relation to offshore oil and gas exploration and production and decommissioning. This includes the approval of Oil Pollution Emergency Plans.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top"><strong>Oil Spill Response:</strong></td>
+				<td valign="top"><p>The implementation of any counter pollution measures deployed to minimize the pollution incident is the responsibility of the operator and overviewed by DEPA.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top"><strong>Transparency:</strong></td>
+				<td valign="top"><p>The oil and gas part of DWEA's website is the most informative source of information about the regulatory system and activities. Almost everything DWEA does as a regulator is duly accounted for here.<br/></br>Some of the postings are also published in English.</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top"><strong>Profile Author:</strong></td>
+				<td valign="top"><p>Katrine Krone, Head of the Offshore Safety Unit, DWEA</p></td>
             </tr>
             <tr>
               <td valign="top"><strong>Profile Date:</strong></td>
-              <td valign="top">24 November 2014</td>
+              <td valign="top">October 12, 2016</td>
             </tr>
           </table>
           <p>&nbsp;</p>
@@ -122,8 +118,8 @@ Providingnish Working Environment Authority is an agency under the Ministry of E
 			<br />
 			Danish Working Environment Authority, 8th office<br />
 			33, Landskronagade <br />
-                        PO Box 1228<br />
-                        DK-2100 Copenhagen <br />
+            PO Box 1228<br />
+            DK-2100 Copenhagen <br />
 			Denmark<br />
 			<br />
 			+45 70 12 12 88 

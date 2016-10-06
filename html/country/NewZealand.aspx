@@ -92,7 +92,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><strong>Profile Date:</strong></td>
-              <td valign="top">23 July 2015</td>
+              <td valign="top">October 12, 2016</td>
             </tr>
           </table>
           <p>&nbsp;</p>
