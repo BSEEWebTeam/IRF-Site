@@ -19,7 +19,7 @@ marquee a {
 </table>
 <p width="750" align="center">
 <marquee onmouseout="this.start()" onmouseover="this.stop()" scrollamount="10" width="750">
-	<a href="http://www.hse.gov.uk/offshore/"><img alt="" width="150px" src="/images/HSE-logo_150.gif" /></a>
+	<a href="http://www.hse.gov.uk/osdr/index.htm"><img alt="" width="150px" src="/images/HSE-logo_150.gif" /></a>
 	<a href="http://www.bsee.gov/"><img alt="" src="/images/bseeLogo-Master_150px.jpg" /></a>
 	<a href="http://www.ptil.no/English"><img alt="" src="/images/PTIL-logo_150.gif" /></a>
 	<a href="http://www.nopsema.gov.au/"><img alt="" width="100px" src="/images/NOPSEMA-logo_150.jpg" /></a>
