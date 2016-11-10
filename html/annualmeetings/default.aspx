@@ -33,6 +33,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <p>The IRF hold annual plenary  meetings.&nbsp; Agenda items at meetings  include country updates and technical sessions, and cover health and safety  issues likely to be of common interest, with technical sessions addressing  matters such as lessons from incidents, research findings, and regulatory  initiatives.</p>
           <p>Annual meetings also include a review of joint activity  during the previous year, and consideration of any shared work to be carried  forward in the coming year, with agreed commitment and responsibility for the  topic lead.</p>
 		  		<table border="0" cellpadding="4" cellspacing="1" summary="">
+				<tr><td><a href="AGM 2015 Minutes.pdf">IRF Annual Meeting Minutes 2015</a></td></tr>
 				<tr><td><a href="IRF AGM 2014 Minutes.pdf">IRF Annual Meeting Minutes 2014</a></td></tr>
 				<tr><td><a href="IRF 2013 Annual Meeting Minutes.pdf">IRF Annual Meeting Minutes 2013</a></td></tr>
 				<tr><td><a href="IRF 2012 Annual Meeting Notes.pdf">IRF Annual Meeting Minutes 2012</a></td></tr>
