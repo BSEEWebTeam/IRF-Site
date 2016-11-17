@@ -31,7 +31,9 @@
 
 		  </td><td width="34%" style="padding: 10px 20px 0 6px;"><h1><strong>Current Issues</strong></h1>
 
-			<p><strong>For a complete look back at the IRF 2015 Offshore Safety Conference and AGM, <a href="/conferences/2015conference/">click here</a>.</strong></p>
+			<p><strong>For our 2016 Annual General Meeting Communique, please <a href="/annualmeetings/IRF 2016 AGM Communique (FINAL).pdf">click here</a>.</strong><br />
+			
+			<strong>For a complete look back at the IRF 2015 Offshore Safety Conference and AGM, <a href="/conferences/2015conference/">click here</a>.</strong></p>
 
 		  </td>
       </tr>
