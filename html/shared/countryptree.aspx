@@ -12,6 +12,9 @@
     <a href="/about/">About IRF</a>
   </li>
   <li>
+	<a href="/articles/">Monthly Articles</a>
+  </li>
+  <li>
     <a href="/annualmeetings/">Annual Meetings</a>
   </li>
   <li>

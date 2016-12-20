@@ -10,6 +10,9 @@
   <li>
     <a href="/about/">About IRF</a>
   </li>
+  <li>
+	<a href="/articles/">Monthly Articles</a>
+  </li>
   <li class="selected">
     <a href="/annualmeetings/">Annual Meetings</a>
 	<table width="100%" cellpadding="4" cellspacing="0" summary="">

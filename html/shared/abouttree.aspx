@@ -7,6 +7,9 @@
   <li>
     <a href="/search/">Search</a>
   </li>
+  <li>
+	<a href="/articles/">Monthly Articles</a>
+  </li>
   <li class="selected">
     <a href="/about/">About IRF</a>
       <table width="100%" align="center" cellpadding="4" cellspacing="0">
