@@ -23,7 +23,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <!--#include virtual="/shared/header.aspx" -->
 <table width="750" border="0" align="center" cellpadding="0" cellspacing="0" summary="Offshore Safety Forum">
   <tr>
-    <td width="159" valign="top"><!--#include virtual="/shared/annualtree.aspx" --><!--#include virtual="/shared/search.aspx" --></td>
+    <td width="159" valign="top"><!--#include virtual="/shared/articlestree.aspx" --><!--#include virtual="/shared/search.aspx" --></td>
     <td width="1" bgcolor="#c9c9c9"><img src="/images/_.gif" alt="" width="1" height="1" /></td>
     <td valign="top"><table border="0" cellpadding="20" cellspacing="0" summary="Offshore Safety Forum">
       <tr>
