@@ -18,6 +18,10 @@
 	<table width="100%" cellpadding="4" cellspacing="0" summary="">
 	<tr>
 	<td width="22" ><br /></td>
+	<td><a class="menu" href="/annualmeetings/IRF 2016 AGM Communique (FINAL).pdf">2016 Annual General Meeting Communique</a></td>
+	</tr>
+	<tr>
+	<td width="22" ><br /></td>
 	<td><a class="menu" href="/annualmeetings/IRF AGM 2014 Minutes.pdf">2014 (21st) Annual Meeting</a></td>
 	</tr>
 	<tr>
