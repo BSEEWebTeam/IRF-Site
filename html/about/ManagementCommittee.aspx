@@ -32,9 +32,10 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <br />
           <h1>IRF Management Committee</h1>
             <ul>
-            <li><strong>Chairman Brian M. Salerno,</strong> BSEE, United States</li>
-            <li><strong>Carlos de Regules,</strong> ASEA, Mexico</li>
-            <li><strong>Brett Murray,</strong> WorkSafe NZ, New Zealand</li>
+            <li><strong>Chairman</strong>, BSEE, United States</li>
+		<li><strong>Anne Myhrvold</strong>, PSA, Norway</li>
+		<li><strong>Stuart Smith</strong>, NOPSEMA, Australia</li>
+		<li><strong>Wendy Kennedy</strong>, HSE, United Kingdom</li>
             </ul>
         </td>
       </tr>

@@ -33,18 +33,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <p>The IRF hold annual plenary  meetings.&nbsp; Agenda items at meetings  include country updates and technical sessions, and cover health and safety  issues likely to be of common interest, with technical sessions addressing  matters such as lessons from incidents, research findings, and regulatory  initiatives.</p>
           <p>Annual meetings also include a review of joint activity  during the previous year, and consideration of any shared work to be carried  forward in the coming year, with agreed commitment and responsibility for the  topic lead.</p>
 		  		<table border="0" cellpadding="4" cellspacing="1" summary="">
-				<tr><td><a href="IRF 2016 AGM Communique (FINAL).pdf">2016 Annual General Meeting Communique</a></td></tr>
+				<tr><td><a href="IRF 2016 Annual Meeting Minutes.pdf">IRF Annual Meeting Minutes 2016</a><br /><a href="IRF 2016 AGM Communique (FINAL).pdf">2016 Annual General Meeting Communique</a></td></tr>
 				<tr><td><a href="AGM 2015 Minutes.pdf">IRF Annual Meeting Minutes 2015</a></td></tr>
 				<tr><td><a href="IRF AGM 2014 Minutes.pdf">IRF Annual Meeting Minutes 2014</a></td></tr>
 				<tr><td><a href="IRF 2013 Annual Meeting Minutes.pdf">IRF Annual Meeting Minutes 2013</a></td></tr>
 				<tr><td><a href="IRF 2012 Annual Meeting Notes.pdf">IRF Annual Meeting Minutes 2012</a></td></tr>
-				<tr><td><a href="IRF 2011 Annual Meeting Notes.pdf">IRF Annual Meeting Notes 2011</a></td></tr>
-				<tr><td><a href="IRF 2010 Annual Meeting Minutes.pdf">IRF Annual Meeting Notes 2010</a></td></tr>
-				<tr><td><a href="2009annualmeeting.aspx">IRF Annual Meeting Notes 2009</a></td></tr>
-				<tr><td><a href="2008annualmeeting.aspx">IRF Annual Meeting Notes 2008</a></td></tr>
-				<tr><td><a href="2007annualmeeting.aspx">IRF Annual Meeting Notes 2007</a></td></tr>
-				<tr><td><a href="2006annualmeeting.aspx">IRF Annual Meeting Notes 2006</a></td></tr>
-				<tr><td><a href="2005annualmeeting.aspx">IRF Annual Meeting Notes 2005</a></td></tr>
 				</table></td>
       </tr>
     </table></td>

@@ -45,5 +45,8 @@
     <li>
       <a href="/country/performance/">Country Performance</a>
     </li>
+    <li>
+      <a href="/archives/">Archives</a>
+    </li>
 </ul>
 <a href="https://www.youtube.com/channel/UCuadmEBVKu9S71-bCC9HUgw"><img src="/images/youtube_logo.jpg" width="100" height="48" border="0" alt="YouTube Channel" /></a>

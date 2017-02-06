@@ -13,20 +13,10 @@
   <li class="selected">
     <a href="/about/">About IRF</a>
       <table width="100%" align="center" cellpadding="4" cellspacing="0">
-       <tr>
-          <td width="22">&nbsp;</td>
-          <td>
-            <a class="menu" href="/about/Membership.aspx">Membership</a></td>
-        </tr>
         <tr>
           <td width="22">&nbsp;</td>
           <td>
             <a class="menu" href="/about/ManagementCommittee.aspx">Management Committee</a></td>
-        </tr>
-        <tr>
-          <td width="22">&nbsp;</td>
-          <td>
-            <a class="menu" href="/about/history">IRF History</a></td>
         </tr>
       </table>
   </li>
@@ -61,6 +51,9 @@
     </li>
     <li>
       <a href="/country/performance/">Country Performance</a>
+    </li>
+    <li>
+      <a href="/archives/">Archives</a>
     </li>
 </ul>
 <a href="https://www.youtube.com/channel/UCuadmEBVKu9S71-bCC9HUgw"><img src="/images/youtube_logo.jpg" width="100" height="48" border="0" alt="YouTube Channel" /></a>
