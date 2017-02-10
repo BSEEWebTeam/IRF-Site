@@ -32,22 +32,22 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <p>The IRF hosts an Offshore Safety Conference every two to three years that brings together regulators, industry, researchers, non-profits and others to examine issues related to risks offshore and increase safety and environmental performance.</p>
 <p>Members include:</p>
 <ul>
-<li><strong>Australia</strong> – National Offshore Petroleum Safety and Environmental Management Authority</li>
-<li>Brazil – National Agency of Oil, Gas and Biofuels</li>
-<li>Canada – 
+<li>Australia - National Offshore Petroleum Safety and Environmental Management Authority</li>
+<li>Brazil - National Agency of Oil, Gas and Biofuels</li>
+<li>Canada - 
 <ul>
 <li>Canada - Newfoundland and Labrador Offshore Petroleum Board</li>
 </li>Canada - Nova Scotia Offshore Petroleum Board</li>
 </li>National Energy Board</li>
 </ul>
 </li>
-<li>Denmark – Danish Working Environment Authority</li>
-<li>Mexico – National Agency for Safety, Energy and Environment of Mexico</li>
-<li>The Netherlands – State Supervision of Mines</li>
-<li>New Zealand – WorkSafe New Zealand</li>
-<li>Norway – The Petroleum Safety Authority</li>
-<li>United Kingdom – Health and Safety Executive and the Department for Business, Energy and Industrial Strategy (BEIS)</li>
-<li>United States – Bureau of Safety and Environmental Enforcement</li>
+<li>Denmark - Danish Working Environment Authority</li>
+<li>Mexico - National Agency for Safety, Energy and Environment of Mexico</li>
+<li>The Netherlands - State Supervision of Mines</li>
+<li>New Zealand - WorkSafe New Zealand</li>
+<li>Norway - The Petroleum Safety Authority</li>
+<li>United Kingdom - Health and Safety Executive and the Department for Business, Energy and Industrial Strategy (BEIS)</li>
+<li>United States - Bureau of Safety and Environmental Enforcement</li>
 </ul>
 <H1>Objectives</H1>
 <p>The objectives of the IRF are:</p>
@@ -68,10 +68,10 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <H1>Working Groups</H1>
 <p>The IRF has four working groups:</p>
 <ul>
-<li>Asset Integrity – The purpose is to identify how companies are managing the maintenance of safety-critical equipment.</li>
-<li>Culture – The purpose is to find a management number of elements/indicators of culture that impact process safety performance within the IRF member countries to prevent major hazard incidents.</li>
-<li>Performance Measures – The purpose is to better identify risks and thereby focus IRF engagement with industry.</li>
-<li>Standards – The purpose is to identify priorities for the development and / or revision of global standards applicable to the offshore oil and gas industry.</li>
+<li>Asset Integrity - The purpose is to identify how companies are managing the maintenance of safety-critical equipment.</li>
+<li>Culture - The purpose is to find a management number of elements/indicators of culture that impact process safety performance within the IRF member countries to prevent major hazard incidents.</li>
+<li>Performance Measures - The purpose is to better identify risks and thereby focus IRF engagement with industry.</li>
+<li>Standards - The purpose is to identify priorities for the development and / or revision of global standards applicable to the offshore oil and gas industry.</li>
 </ul>
 <H1>IRF Charter</H1>
 <p>The IRF Charter is available <a href="/about/IRF-Charter.pdf">here</a>.</p>
