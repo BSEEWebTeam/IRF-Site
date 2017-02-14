@@ -27,20 +27,6 @@
     <a href="/conferences/">Conferences</a>
   </li>
   <li>
-    <a href="/awards/">Awards</a>
-  </li>
-  <!-- //
-  <li>
-    <a href="/programmes/">Programmes</a>
-  </li>
-  <li>
-    <a href="/events/">Topical Issues</a>
-  </li>
-  // -->
-  <li>
-    <a href="/research/">Research</a>
-  </li>
-  <li>
     <a href="/links/">Useful Links</a>
   </li>
   <li>

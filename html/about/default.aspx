@@ -37,8 +37,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <li>Canada - 
 <ul>
 <li>Canada - Newfoundland and Labrador Offshore Petroleum Board</li>
-</li>Canada - Nova Scotia Offshore Petroleum Board</li>
-</li>National Energy Board</li>
+<li>Canada - Nova Scotia Offshore Petroleum Board</li>
+<li>National Energy Board</li>
 </ul>
 </li>
 <li>Denmark - Danish Working Environment Authority</li>

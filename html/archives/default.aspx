@@ -29,7 +29,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 <H1>IRF History</H1>
 
-<a href="/about/history/A-legacy-of-safety-IRF-1994-2013.pdf" title="">A legacy of safety</a>
+<a href="/archives/A-legacy-of-safety-IRF-1994-2013.pdf" title="A legacy of safety">A legacy of safety</a>
 
 <p>If you would like a hard copy of the book please email <a href="mailto:thor.dahle@ptil.no">thor.dahle@ptil.no</a> </p>
 
