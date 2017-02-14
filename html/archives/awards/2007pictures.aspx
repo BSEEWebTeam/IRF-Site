@@ -27,24 +27,24 @@
           <h3>2007 Awards Pictures </h3>
           <table width="520" border="0" cellpadding="5" cellspacing="0">
             <tr>
-              <td><img src="/archives/awards/images/2007pic1.jpg" alt="2007 Awards" width="250" height="166" /></td>
-              <td><img src="/archives/awards/images/2007pic2.jpg" alt="2007 Awards" width="250" height="166" /></td>
+              <td><img src="/archives/awards/images/01-2007.JPG" alt="2007 Awards" width="250" height="166" /></td>
+              <td><img src="/archives/awards/images/02-2007.JPG" alt="2007 Awards" width="250" height="166" /></td>
             </tr>
 			<tr valign="top">
 			  <td class="sub">Dr. Lee Hunt, President and CEO of the International Association of Drilling Contractors, accepts the 2007 Carolita Kallaur Award from Norwegian Secretary General Ellen Seip.  Also present is Mr. Lars Herbst, MMS.</td>
 			  <td class="sub">Mr. Jose Carlos Laurindo of Petrobras accepts  the 2007 Carolita Kallaur Award from Norwegian Secretary General Ellen  Seip.&nbsp; Also present is Mr. Ralph Moura, ANP.</td>
 			</tr>
 			<tr>
-              <td><img src="/archives/awards/images/2007pic3.jpg" alt="2007 Awards" width="250" height="166" /></td>
-              <td><img src="/archives/awards/images/2007pic4.jpg" alt="2007 Awards" width="250" height="166" /></td>
+              <td><img src="/archives/awards/images/03-2007.JPG" alt="2007 Awards" width="250" height="166" /></td>
+              <td><img src="/archives/awards/images/04-2007.JPG" alt="2007 Awards" width="250" height="166" /></td>
             </tr>
 			<tr valign="top">
 			  <td class="sub">Mr. Theo Bergers, Chairman, Netherlands Oil and Gas Exploration and Production Association, accepts the 2007 Carolita Kallaur Award from Norwegian Secretary General Ellen Seip.  Also present is Mr. Jan de Jong, Inspector-General of Mines for the State Supervision of Mines, Netherlands.</td>
 			  <td class="sub">Dr. Lee Hunt, President and CEO, International Association of Drilling Contractors.</td>
 			</tr>
 			<tr>
-              <td><img src="/archives/awards/images/2007pic5.jpg" alt="2007 Awards" width="250" height="166" /></td>
-              <td><img src="/archives/awards/images/2007pic6.jpg" alt="2007 Awards" width="250" height="166" /></td>
+              <td><img src="/archives/awards/images/05-2007.JPG" alt="2007 Awards" width="250" height="166" /></td>
+              <td><img src="/archives/awards/images/06-2007.JPG" alt="2007 Awards" width="250" height="166" /></td>
             </tr>
 			<tr valign="top">
 			  <td class="sub">Mr. Jose Carlos Laurindo and other Petrobras Associates.</td>
