@@ -27,8 +27,8 @@
           <h3>2005 Awards Pictures </h3>
           <table border="0" cellpadding="5" cellspacing="0">
             <tr>
-              <td><img src="/awards/images/2005pic1.jpg" alt="2005 Awards" width="250" height="166" /></td>
-              <td><img src="/awards/images/2005pic2.jpg" alt="2005 Awards" width="250" height="166" /></td>
+              <td><img src="/archives/awards/images/2005pic1.jpg" alt="2005 Awards" width="250" height="166" /></td>
+              <td><img src="/archives/awards/images/2005pic2.jpg" alt="2005 Awards" width="250" height="166" /></td>
             </tr>
           </table>          <p>&nbsp;</p>
           </td>

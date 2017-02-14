@@ -46,9 +46,9 @@
             4.	Significant improvement in safety performance achieved (can be demonstrated against a baseline) <br />
             5.	Potentially very effective elsewhere (adds value to the sector) </p>
             <p>These links will enable you to view previous award citations. </p>
-            <p><a href="/awards/2010awards.aspx">2010 Awards</a></p>
-            <p><a href="/awards/2007awards.aspx">2007 Awards</a></p>
-            <p><a href="/awards/2005awards.aspx">2005 Awards</a></p>
+            <p><a href="/archives/awards/2010awards.aspx">2010 Awards</a></p>
+            <p><a href="/archives/awards/2007awards.aspx">2007 Awards</a></p>
+            <p><a href="/archives/awards/2005awards.aspx">2005 Awards</a></p>
             <p><strong>Exclusions</strong></p>
             <p>IRF Member regulators. <br />
             Adverse conditions that might mean poor public perception. <br />

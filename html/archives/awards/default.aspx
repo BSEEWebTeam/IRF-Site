@@ -30,7 +30,7 @@
             All too often failures make our headlines but we rarely hear  about successes.&nbsp; The sharing internationally of information on best  safety practice and outstanding safety initiatives provides a catalyst to  improve offshore safety worldwide. IRF recognises the potential to kindle  continuous safety improvement in our industry on a global front.&nbsp;</p>
           <table border="0" cellpadding="5" cellspacing="0" summary="">
             <tr>
-              <td><img src="/awards/images/CarolitaKallaur.jpg" alt="Carolita Kallaur" width="173" height="250" /></td>
+              <td><img src="/archives/awards/images/CarolitaKallaur.jpg" alt="Carolita Kallaur" width="173" height="250" /></td>
               <td valign="top"><p><strong>History</strong></p>
                   <p>Carolita Kallaur directed the US Minerals Management Service (MMS) offshore  programme.&nbsp; Much of her time was spent promoting the importance of  international standards and sharing of information among Regulators.&nbsp; </p>
                 <p>Carolita Kallaur was an advocate of recognising those organisations that  demonstrate exceptional leadership in promoting and achieving international  safety - the primary theme of the IRF. Carolita sadly died from amyotrophic  lateral sclerosis (ALS) on Dec. 23, 2003.&nbsp; IRF members agreed that it  would be appropriate to honour the award recipients and Carolita by attaching  her name to these important awards. </p>
@@ -38,9 +38,9 @@
             </tr>
           </table>
           <p>
-          <a href="/awards/2010awards.aspx">Click here for information regarding our 2010 awards</a><br /><br />
-          <a href="/awards/2007awards.aspx">Click here for information regarding our 2007 awards</a><br /><br />
-          <a href="/awards/2005awards.aspx">Click here for information regarding our 2005 awards</a>
+          <a href="/archives/awards/2010awards.aspx">Click here for information regarding our 2010 awards</a><br /><br />
+          <a href="/archives/awards/2007awards.aspx">Click here for information regarding our 2007 awards</a><br /><br />
+          <a href="/archives/awards/2005awards.aspx">Click here for information regarding our 2005 awards</a>
           </p></td>
         </tr>
     </table></td>
