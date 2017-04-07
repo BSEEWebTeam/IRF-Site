@@ -43,7 +43,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><a href="Canada.aspx">Canada</a></td>
-              <td valign="top"><p>Canada – Newfoundland and Labrador Offshore Petroleum Board (C-NLOPB)<br /><a href="stessier@cnlopb.ca">stessier@cnlopb.ca</a></p>
+              <td valign="top">Canada – Newfoundland and Labrador Offshore Petroleum Board (C-NLOPB)<br /><a href="stessier@cnlopb.ca">stessier@cnlopb.ca</a>
 			  <p>Canada – Nova Scotia Offshore Petroleum Board (CNSOPB)<br /><a href="kfunke@cnsopb.ns.ca">kfunke@cnsopb.ns.ca</a></p>
 			  <p>National Energy Board (NEB)<br /><a href="keith.landra@neb-one.gc.ca">keith.landra@neb-one.gc.ca</a></p></td>
             </tr>
@@ -72,7 +72,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
               <td valign="top">Health and Safety Executive (HSE) / Department for Business, Energy, and Industrial Strategy (BEIS)<br /><a href="jean.evans@hse.gov.uk">jean.evans@hse.gov.uk</a></td>
             </tr>
             <tr>
-              <td valign="top"><a href="UnitedStates.aspx">United States</a></td>
+              <td width="100px" valign="top"><a href="UnitedStates.aspx">United States</a></td>
               <td valign="top">Bureau of Safety and Environmental Enforcement (BSEE)<br /><a href="bseeoip@bsee.gov">bseeoip@bsee.gov</a></td>
             </tr>
           </table>
