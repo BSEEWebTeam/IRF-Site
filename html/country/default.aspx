@@ -32,7 +32,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <br />
             
           <h2>Member Country Profiles</h2>
-          <table border="0" cellpadding="2" cellspacing="0" summary="Member Country Profiles">
+          <table border="1" cellpadding="2" cellspacing="0" summary="Member Country Profiles">
             <tr>
               <td><a href="Australia.aspx">Australia</a></td>
               <td>National Offshore Petroleum Safety and Environmental Management Authority, Australia (NOPSEMA) <a href="mailto:information@nopsema.gov.au">information@nopsema.gov.au</a></td>
