@@ -35,46 +35,47 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <table border="0" cellpadding="2" cellspacing="0" summary="Member Country Profiles">
             <tr>
               <td><a href="Australia.aspx">Australia</a></td>
-              <td>National Offshore Petroleum Safety and Environmental Management Authority</td>
+              <td>National Offshore Petroleum Safety and Environmental Management Authority, Australia (NOPSEMA) <a href="mailto:information@nopsema.gov.au">information@nopsema.gov.au</a></td>
             </tr>
             <tr>
               <td><a href="Brazil.aspx">Brazil</a></td>
-              <td>National Agency of Oil, Gas and Biofuels (ANP)</td>
+              <td>National Offshore Petroleum Safety and Environmental Management Authority, Australia (NOPSEMA) <a href="information@nopsema.gov.au">information@nopsema.gov.au</a></td>
             </tr>
             <tr>
               <td><a href="Canada.aspx">Canada</a></td>
-              <td>Canada-Newfoundland and Labrador Offshore Petroleum Board; Canada-Nova Scotia Offshore Petroleum Board; and the National Energy Board</td>
+              <td><p>Canada – Newfoundland and Labrador Offshore Petroleum Board (C-NLOPB) <a href="stessier@cnlopb.ca">stessier@cnlopb.ca</a></p>
+			  <p>Canada – Nova Scotia Offshore Petroleum Board (CNSOPB)	<a href="kfunke@cnsopb.ns.ca">kfunke@cnsopb.ns.ca</a></p>
+			  <p>National Energy Board (NEB) <a href="keith.landra@neb-one.gc.ca">keith.landra@neb-one.gc.ca</a></p></td>
             </tr>
             <tr>
               <td><a href="Denmark.aspx">Denmark</a></td>
-              <td>Danish Working Environment Authority (WEA)<td>
+              <td>Danish Working Environment Authority (DWEA) <a href="prh@at.dk">prh@at.dk</a><td>
             </tr>
             <tr>
               <td><a href="Mexico.aspx">Mexico</a></td>
-              <td>National Agency for Safety, Energy and Environment of Mexico (ASEA)</td>
+              <td>Agency for Safety, Energy and Environment (ASEA) <a href="laura.lira@asea.gob.mx">laura.lira@asea.gob.mx</a></td>
             </tr>
             <tr>
               <td><a href="Netherlands.aspx">Netherlands</a></td>
-              <td>State Supervision of Mines</td>
+              <td>State Supervision of Mines (SSM) <a href="v.c.m.claessens@minez.nl">v.c.m.claessens@minez.nl</a></td>
             </tr>
             <tr>
               <td><a href="NewZealand.aspx">New Zealand</a></td>
-              <td>WorkSafe New Zealand</td>
+              <td>WorkSafe NZ wayne.vernon@WorkSafe.govt.nz <a href="donna.ellis@WorkSafe.govt.nz">donna.ellis@WorkSafe.govt.nz</a></td>
             </tr>
             <tr>
               <td><a href="Norway.aspx">Norway</a></td>
-              <td>The Petroleum Safety Authority</td>
+              <td>Petroleum Safety Authority (PSA) <a href="thor.dahle@ptil.no">thor.dahle@ptil.no</a></td>
             </tr>
             <tr>
               <td><a href="UnitedKingdom.aspx">United Kingdom</a></td>
-              <td>Health and Safety Executive</td>
+              <td>Health and Safety Executive (HSE) / Department for Business, Energy, and Industrial Strategy (BEIS) <a href="jean.evans@hse.gov.uk">jean.evans@hse.gov.uk</a></td>
             </tr>
             <tr>
               <td><a href="UnitedStates.aspx">United States</a></td>
-              <td>Bureau of Safety and Environmental Enforcement</td>
+              <td>Bureau of Safety and Environmental Enforcement (BSEE) <a href="bseeoip@bsee.gov">bseeoip@bsee.gov</a></td>
             </tr>
           </table>
-          <p>&nbsp;</p>
           </td>
       </tr>
     </table></td>

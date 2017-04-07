@@ -23,11 +23,8 @@
   <li>
     <a href="/links/">Useful Links</a>
   </li>
-  <li>
-    <a href="/contacts/">Contacts</a>
-    </li>
     <li>
-      <a href="/country/">Country Profiles</a>
+      <a href="/country/">Country Profiles & Contacts</a>
     </li>
     <li class="selected">
       <a href="/country/performance/">Country Performance</a>
