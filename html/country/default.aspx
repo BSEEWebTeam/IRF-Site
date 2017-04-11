@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
@@ -39,41 +39,41 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><a href="profiles/Brazil.pdf">Brazil</a></td>
-              <td valign="top">National Offshore Petroleum Safety and Environmental Management Authority, Australia (NOPSEMA)<br /><a href="information@nopsema.gov.au">information@nopsema.gov.au</a></td>
+              <td valign="top">Brazilian National Petroleum Agency (ANP)<br /><a href="mailto:mmacedo@anp.gov.br">mmacedo@anp.gov.br</a></td>
             </tr>
             <tr>
               <td valign="top"><a href="profiles/Canada.pdf">Canada</a></td>
-              <td valign="top">Canada – Newfoundland and Labrador Offshore Petroleum Board (C-NLOPB)<br /><a href="stessier@cnlopb.ca">stessier@cnlopb.ca</a>
-			  <p>Canada – Nova Scotia Offshore Petroleum Board (CNSOPB)<br /><a href="kfunke@cnsopb.ns.ca">kfunke@cnsopb.ns.ca</a></p>
-			  <p>National Energy Board (NEB)<br /><a href="keith.landra@neb-one.gc.ca">keith.landra@neb-one.gc.ca</a></p></td>
+              <td valign="top">Canada – Newfoundland and Labrador Offshore Petroleum Board (C-NLOPB)<br /><a href="mailto:stessier@cnlopb.ca">stessier@cnlopb.ca</a>
+			  <p>Canada – Nova Scotia Offshore Petroleum Board (CNSOPB)<br /><a href="mailto:kfunke@cnsopb.ns.ca">kfunke@cnsopb.ns.ca</a></p>
+			  <p>National Energy Board (NEB)<br /><a href="mailto:keith.landra@neb-one.gc.ca">keith.landra@neb-one.gc.ca</a></p></td>
             </tr>
             <tr>
               <td valign="top"><a href="profiles/Denmark.pdf">Denmark</a></td>
-              <td valign="top">Danish Working Environment Authority (DWEA)<br /><a href="prh@at.dk">prh@at.dk</a><td>
+              <td valign="top">Danish Working Environment Authority (DWEA)<br /><a href="mailto:prh@at.dk">prh@at.dk</a><td>
             </tr>
             <tr>
               <td valign="top"><a href="profiles/Mexico.pdf">Mexico</a></td>
-              <td valign="top">Agency for Safety, Energy and Environment (ASEA)<br /><a href="laura.lira@asea.gob.mx">laura.lira@asea.gob.mx</a></td>
+              <td valign="top">Agency for Safety, Energy and Environment (ASEA)<br /><a href="mailto:laura.lira@asea.gob.mx">laura.lira@asea.gob.mx</a></td>
             </tr>
             <tr>
               <td valign="top"><a href="profiles/Netherlands.pdf">Netherlands</a></td>
-              <td valign="top">State Supervision of Mines (SSM)<br /><a href="v.c.m.claessens@minez.nl">v.c.m.claessens@minez.nl</a></td>
+              <td valign="top">State Supervision of Mines (SSM)<br /><a href="mailto:v.c.m.claessens@minez.nl">v.c.m.claessens@minez.nl</a></td>
             </tr>
             <tr>
               <td valign="top"><a href="profiles/NewZealand.pdf">New Zealand</a></td>
-              <td valign="top">WorkSafe NZ wayne.vernon@WorkSafe.govt.nz<br /><a href="donna.ellis@WorkSafe.govt.nz">donna.ellis@WorkSafe.govt.nz</a></td>
+              <td valign="top">WorkSafe NZ<br /><a href="mailto:wayne.vernon@WorkSafe.govt.nz">wayne.vernon@WorkSafe.govt.nz</a><br /><a href="mailto:donna.ellis@WorkSafe.govt.nz">donna.ellis@WorkSafe.govt.nz</a></td>
             </tr>
             <tr>
               <td valign="top"><a href="profiles/Norway.pdf">Norway</a></td>
-              <td valign="top">Petroleum Safety Authority (PSA)<br /><a href="thor.dahle@ptil.no">thor.dahle@ptil.no</a></td>
+              <td valign="top">Petroleum Safety Authority (PSA)<br /><a href="mailto:thor.dahle@ptil.no">thor.dahle@ptil.no</a></td>
             </tr>
             <tr>
               <td valign="top"><a href="profiles/UK.pdf">United Kingdom</a></td>
-              <td valign="top">Health and Safety Executive (HSE) / Department for Business, Energy, and Industrial Strategy (BEIS)<br /><a href="jean.evans@hse.gov.uk">jean.evans@hse.gov.uk</a></td>
+              <td valign="top">Health and Safety Executive (HSE) / Department for Business, Energy, and Industrial Strategy (BEIS)<br /><a href="mailto:jean.evans@hse.gov.uk">jean.evans@hse.gov.uk</a></td>
             </tr>
             <tr>
               <td width="100px" valign="top"><a href="profiles/UnitedStates.pdf">United States</a></td>
-              <td valign="top">Bureau of Safety and Environmental Enforcement (BSEE)<br /><a href="bseeoip@bsee.gov">bseeoip@bsee.gov</a></td>
+              <td valign="top">Bureau of Safety and Environmental Enforcement (BSEE)<br /><a href="mailto:bseeoip@bsee.gov">bseeoip@bsee.gov</a></td>
             </tr>
           </table>
           </td>
