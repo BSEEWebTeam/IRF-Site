@@ -32,6 +32,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <h2>Monthly Articles</h2>
           <p>To expand communications with regulators, the offshore energy industry, and other stakeholders around the globe, the IRF publishes monthly articles on topics central to the current offshore energy environment. Though the topics are of common interest to the IRF, each article is written from the perspective of an IRF member. Every month, an article (or two), will be highlighted on the home page as well as archived in the links below.</p>
 		  		<table border="0" cellpadding="4" cellspacing="1" summary="">
+				<tr><td>2017, April, BSEE, <a href="/articles/2017/2017APRIL-BSEE-SharingSafety-DataforLearningandEngagement.pdf" title="Sharing Safety-Data for Learning and Engagement">Sharing Safety-Data for Learning and Engagement</a></td></tr>
 				<tr><td>2017, March, Canada, <a href="/articles/2017/2017MARCH-Canada-AdvancingSafetyCulture.pdf" title="Advancing Safety Culture across the Offshore Oil and Gas Industry">Advancing Safety Culture across the Offshore Oil and Gas Industry</a></td></tr>
 				<tr><td>2017, February, WorkSafe New Zealand, <a href="/articles/2017/2017FEBRUARY-WorkSafe-Top-downCapacityforCompetence.pdf" title="WorkSafe Top-down Capacity for Competence">WorkSafe Top-down Capacity for Competence</a></td></tr>
 				<tr><td>2017, January, BSEE, <a href="/articles/2017/2017JANUARY-BSEE-RoleofResearchandInformationSharing.pdf" title="Role of Research and Information Sharing">Role of Research and Information Sharing</a></td></tr>
