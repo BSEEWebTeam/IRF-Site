@@ -65,7 +65,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><a href="profiles/Norway.pdf">Norway</a></td>
-              <td valign="top">Petroleum Safety Authority (PSA)<br /><a href="mailto:thor.dahle@ptil.no">thor.dahle@ptil.no</a></td>
+              <td valign="top">Petroleum Safety Authority (PSA)<br /><a href="mailto:postboks@ptil.no">postboks@ptil.no</a></td>
             </tr>
             <tr>
               <td valign="top"><a href="profiles/UK.pdf">United Kingdom</a></td>
