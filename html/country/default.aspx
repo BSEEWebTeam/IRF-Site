@@ -57,7 +57,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><a href="profiles/Netherlands.pdf">Netherlands</a></td>
-              <td valign="top">State Supervision of Mines (SSM)<br /><a href="mailto:v.c.m.claessens@minez.nl">v.c.m.claessens@minez.nl</a></td>
+              <td valign="top">State Supervision of Mines (SSM)<br /><a href="mailto:SodMInternational@minez.nl">SodMInternational@minez.nl</a></td>
             </tr>
             <tr>
               <td valign="top"><a href="profiles/NewZealand.pdf">New Zealand</a></td>
