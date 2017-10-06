@@ -49,7 +49,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><a href="profiles/Denmark.pdf">Denmark</a></td>
-              <td valign="top">Danish Working Environment Authority (DWEA)<br /><a href="mailto:prh@at.dk">prh@at.dk</a><td>
+              <td valign="top">Danish Working Environment Authority (DWEA)<br /><a href="mailto:bcr@at.dk">bcr@at.dk</a><td>
             </tr>
             <tr>
               <td valign="top"><a href="profiles/Mexico.pdf">Mexico</a></td>

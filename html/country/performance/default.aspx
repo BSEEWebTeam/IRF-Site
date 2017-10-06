@@ -34,6 +34,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <h2>IRF Country Performance Measures </h2>
           <p>As part of promoting the best sustainable safety performance, IRF members recognize the importance of measuring the performance of offshore activities. Each IRF country has its own methods for accomplishing this, and these methods are variable from country to country. However, in order to be able to compare offshore safety performance among IRF participants a common framework is needed. The IRF Performance Measures Project was undertaken to establish such a framework. A framework based on a common set of definitions and criteria has been developed. Information about this framework and actual data Calendar Year can be found through the links below.</p>
           <p><a href="scope.aspx">Project Scope and Data Guidelines</a></p>
+		  <p><a href="IRF_Country_Data_2016.pdf">Link to the 2016 Data</a></p>
 		  <p><a href="IRF_Country_Data_2015.pdf">Link to the 2015 Data</a></p>
 		  <p><a href="IRF_Country_Data_2014.pdf">Link to the 2014 Data</a></p>
 		  <p><a href="IRF_Country_Data_2013.pdf">Link to the 2013 Data</a></p>
