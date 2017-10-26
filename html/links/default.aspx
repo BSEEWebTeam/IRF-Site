@@ -43,7 +43,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <p>International Association of  Drilling Contractors (IADC)<br />
             <a href="http://www.iadc.org/" target="_blank">http://www.iadc.org/</a></p>
 		  <p>International Association of oil  and gas producers (OGP) <br />
-			<a href="http://www.ogp.org.uk/" target="_blank">http://www.ogp.org.uk/</a></p>
+			<a href="http://www.iogp.org" target="_blank">http://www.iogp.org</a></p>
           <p>International Energy Agency<br />
             <a href="http://www.iea.org/" target="_blank">http://www.iea.org/</a></p>
           <p>International Labour Organisation<br />
