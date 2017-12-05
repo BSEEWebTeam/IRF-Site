@@ -40,7 +40,8 @@
           <tr>
 			<td width="8"><br /></td>
             <td><a class="menu" href="/archives/programmes/">Programmes</a></td>
-			
+			</tr>
+			<tr>
             <td width="8"><br /></td>
             <td><a class="menu" href="/archives/awards/">Awards</a></td>
           </tr>
