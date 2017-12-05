@@ -3,6 +3,25 @@
 <ul id="menu">
   <li class="selected">
     <a href="/">Home</a>
+	<table width="100%" border="0" cellpadding="4" cellspacing="1" summary="">
+		
+          <tr>
+		
+            <td width="8"><br /></td>
+            <td><a class="menu" href="/events/">Topical Issues</a></td>
+          </tr>
+		  
+    </table>
+	
+	
+	
+<table width="100%" border="0" cellpadding="4" cellspacing="1" summary="">
+          <tr>
+            <td width="22"><br /></td>
+            <td><a class="menu" href="/events/AssetIntegrity.aspx">Asset Integrity</a></td>
+          </tr>
+		   
+      </table>
   </li>
   <li>
     <a href="/search/">Search</a>

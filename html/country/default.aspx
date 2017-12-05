@@ -61,7 +61,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             </tr>
             <tr>
               <td valign="top"><a href="profiles/NewZealand.pdf">New Zealand</a></td>
-              <td valign="top">WorkSafe NZ<br /><a href="mailto:wayne.vernon@WorkSafe.govt.nz">wayne.vernon@WorkSafe.govt.nz</a><br /><a href="mailto:donna.ellis@WorkSafe.govt.nz">donna.ellis@WorkSafe.govt.nz</a></td>
+              <td valign="top">WorkSafe NZ<br /><a href="mailto:Nick.Dawtry@worksafe.govt.nz">Nick.Dawtry@worksafe.govt.nz</a><br /><a href="mailto:donna.ellis@WorkSafe.govt.nz">donna.ellis@WorkSafe.govt.nz</a></td>
             </tr>
             <tr>
               <td valign="top"><a href="profiles/Norway.pdf">Norway</a></td>

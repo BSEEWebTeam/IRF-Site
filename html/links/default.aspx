@@ -71,15 +71,21 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <p>Netherlands Oil and Gas Exploration  and Production Association<br />
             <a href="http://www.nogepa.nl/" target="_blank">http://www.nogepa.nl/</a></p>
           <p>The Norwegian Oil Industry  Association<br />
-            <a href="http://www.olf.no/english/about/" target="_blank">http://www.olf.no/english/about/</a></p>
+            <a href="https://www.norskoljeoggass.no/en/" target="_blank">https://www.norskoljeoggass.no/en/</a></p>
           <p>Offshore  Operators Committee<br />
             <a href="http://offshoreoperators.com/" target="_blank">http://offshoreoperators.com</a></p>
-          <p>Oil &amp; Gas UK (formerly United Kingdom Offshore Operators Association )<br />
-            <a href="http://www.ukooa.co.uk/" target="_blank">http://www.ukooa.co.uk/</a><br />
+          <p>Oil &amp; Gas UK<br />
+            <a href="https://oilandgasuk.co.uk/" target="_blank">https://oilandgasuk.co.uk/</a><br />
             <strong><a name="section3" class="style1" id="section3"><br />
             World  Wide Safety Initiatives</a></strong></p>
-          <p>Step Change in Safety<br />
-            <a href="https://www.stepchangeinsafety.net/" target="_blank">https://www.stepchangeinsafety.net/</a><br />
+          <p>Center for Offshore Safety (COS)<br />
+            <a href="http://www.centerforoffshoresafety.org/" target="_blank">http://www.centerforoffshoresafety.org/</a><br />
+            <br />
+			Center for Offshore Safety (COS)<br />
+            <a href="http://www.centerforoffshoresafety.org/" target="_blank">http://www.centerforoffshoresafety.org/</a><br />
+            <br />
+			Ocean Energy Safety Institute (OESI)<br />
+            <a href="http://oesi.tamu.edu/" target="_blank">http://oesi.tamu.edu/</a><br />
             <br />
   Working  Together for Safety<br />
   <a href="http://www.samarbeidforsikkerhet.no/category.aspx?CatId=140" target="_blank">http://www.samarbeidforsikkerhet.no/</a></p>

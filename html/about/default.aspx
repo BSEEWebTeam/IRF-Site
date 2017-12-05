@@ -46,7 +46,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <li>The Netherlands - State Supervision of Mines</li>
 <li>New Zealand - WorkSafe New Zealand</li>
 <li>Norway - The Petroleum Safety Authority</li>
-<li>United Kingdom - Health and Safety Executive and the Department for Business, Energy and Industrial Strategy (BEIS)</li>
+<li>United Kingdom – Health and Safety Executive (HSE) and Offshore Petroleum Regulator for Environment and Decommissioning (OPRED)</li>
 <li>United States - Bureau of Safety and Environmental Enforcement</li>
 </ul>
 <H1>Objectives</H1>
