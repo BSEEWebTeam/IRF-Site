@@ -81,9 +81,6 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <p>Center for Offshore Safety (COS)<br />
             <a href="http://www.centerforoffshoresafety.org/" target="_blank">http://www.centerforoffshoresafety.org/</a><br />
             <br />
-			Center for Offshore Safety (COS)<br />
-            <a href="http://www.centerforoffshoresafety.org/" target="_blank">http://www.centerforoffshoresafety.org/</a><br />
-            <br />
 			Ocean Energy Safety Institute (OESI)<br />
             <a href="http://oesi.tamu.edu/" target="_blank">http://oesi.tamu.edu/</a><br />
             <br />
