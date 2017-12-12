@@ -3,15 +3,6 @@
 <ul id="menu">
   <li>
     <a href="/">Home</a>
-	<li class="selected">
-    <a href="/events/">Topical Issues</a>
-      <table width="100%" align="center" cellpadding="4" cellspacing="0">
-        <tr>
-          <td width="22">&nbsp;</td>
-          <td><a class="menu" href="/events/AssetIntegrity.aspx">Asset Integrity</a></td>
-        </tr>
-      </table>
-  </li>
   </li>
   <li>
     <a href="/search/">Search</a>
@@ -40,6 +31,15 @@
     <li>
       <a href="/country/performance/">Country Performance</a>
     </li>
+	<li class="selected">
+		<a href="/events/">Topical Issues</a>
+		<table width="100%" align="center" cellpadding="4" cellspacing="0">
+        <tr>
+          <td width="22">&nbsp;</td>
+          <td><a class="menu" href="/events/AssetIntegrity.aspx">Asset Integrity</a></td>
+        </tr>
+      </table>
+	</li>
     <li>
       <a href="/archives/">Archives</a>
     </li>

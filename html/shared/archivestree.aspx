@@ -28,7 +28,9 @@
     <li>
       <a href="/country/performance/">Country Performance</a>
     </li>
-	
+	<li>
+		<a href="/events/">Topical Issues</a>
+	</li>
 	
 	
     <li class="selected">
