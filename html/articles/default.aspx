@@ -32,6 +32,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           <h2>Monthly Articles</h2>
           <p>To expand communications with regulators, the offshore energy industry, and other stakeholders around the globe, the IRF publishes monthly articles on topics central to the current offshore energy environment. Though the topics are of common interest to the IRF, each article is written from the perspective of an IRF member. Every month, an article (or two), will be highlighted on the home page as well as archived in the links below.</p>
 		  		<table border="0" cellpadding="4" cellspacing="1" summary="">
+				<tr><td>2017 December - ANP, <a href="/articles/2017/2017December-ANP-AssetTransferinOffshoreMatureFieldsinBrazil.pdf" title="Asset Transfer in Offshore Mature Fields in Brazil">Asset Transfer in Offshore Mature Fields in Brazil</a></td></tr>
 				<tr><td>2017 NOVEMBER - WorkSafe NZ, <a href="/articles/2017/2017November-WorkSafeNZ-AssetIntegrity.pdf" title="2017 November - WorkSafe NZ - Asset Integrity">Asset Integrity</a></td></tr>
 				<tr><td>2017 OCTOBER- NOPSEMA, <a href="/articles/2017/2017October-NOPSEMA-DynamicPositioning.pdf" title="2017 October - NOPSEMA - Dynamic Positioning">Dynamic Positioning</a></td></tr>
 				<tr><td>2017 SEPTEMBER- DWEA, <a href="/articles/2017/2017SEPTEMBER-DWEA-CollaborationonOffshoreSafetyisEssentialAlsoforRegulators.pdf" title="2017 SEPTEMBER- DWEA -Collaboration on Offshore Safety is Essential Also for Regulators">Collaboration on Offshore Safety is Essential Also for Regulators</a></td></tr>
